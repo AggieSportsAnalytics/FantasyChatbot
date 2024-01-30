@@ -19,7 +19,7 @@ messages = [
     SystemMessage(content="You are an expert sport analyst who specializes in Fantasy Football")
 ]
 
-print("Welcome to the Basketball Expert Chatbot! Type 'exit' to end the conversation.")
+print("Welcome to the Football Expert Chatbot! Type 'exit' to end the conversation.")
 
 while True:
     # Get user input
