@@ -4,9 +4,12 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import ConversationalRetrievalChain
 from langchain.document_loaders.json_loader import JSONLoader
+from langchain.document_loaders.csv_loader import CSVLoader
 from langchain.vectorstores import FAISS
 from dotenv import load_dotenv
 import os
+import pandas as pd
+from langchain.chains import SimpleSequentialChain
 
 # Load environment variables
 load_dotenv('.env')
@@ -19,19 +22,41 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 loader = JSONLoader(file_path=json_path, jq_schema='.[]', text_content=False)
 data = loader.load()
 
+injury_loader = CSVLoader(file_path='data/injuryreports.csv', encoding="utf-8")
+injury_reports = injury_loader.load()
+
 embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
 vectors = FAISS.from_documents(data, embeddings)
+injury_vectors = FAISS.from_documents(injury_reports, embeddings)
 
 chain = ConversationalRetrievalChain.from_llm(
     llm=ChatOpenAI(temperature=0.0, model_name='gpt-3.5-turbo', openai_api_key=OPENAI_API_KEY),
     retriever=vectors.as_retriever())
 
+injury_chain = ConversationalRetrievalChain.from_llm(
+    llm=ChatOpenAI(temperature=0.0, model_name='gpt-3.5-turbo', openai_api_key=OPENAI_API_KEY),
+    retriever=injury_vectors.as_retriever())
+
+ss_chain: SimpleSequentialChain = SimpleSequentialChain(
+    chains=[chain, injury_chain],
+    verbose=True
+)
+
 # Function to handle conversation
 def conversational_chat(query):
-    result = chain({"question": query, "chat_history": st.session_state['history']})
-    st.session_state['history'].append((query, result["answer"]))
-    return result["answer"]
+    injury_query = f'{query}. What is the current situation towards this/these player(s) regarding injuries?' 
+    report = injury_chain({"question": injury_query, "chat_history": st.session_state['history']})
 
+    result = ss_chain({"question": query, "chat_history": st.session_state['history']})
+    st.session_state['history'].append((query, result["answer"]))
+
+    injury_query = f'{query}. What is the current situation towards this/these player(s) regarding injuries?' 
+    report = injury_chain({"question": injury_query, "chat_history": st.session_state['history']})
+    print(report['answer']) 
+    # st.session_state['history'].append((injury_query, report["answer"]))
+
+    return result["answer"]
+ 
 # Initialize session state
 if 'history' not in st.session_state:
     st.session_state['history'] = []
