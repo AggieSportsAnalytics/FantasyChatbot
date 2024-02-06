@@ -1,5 +1,7 @@
 # Fantasy Chatbot
 
-Chatbot for personalized guidance in Fantasy Football 🏈
+Chatbot for amazing personalized guidance in Fantasy Football 🏈
 
-Contributors: Vishal Shenoy, Raquib Alam, Arnav Akula, Matthew Wang
+Built using <a href="https://streamlit.io">Streamlit</a> and <a href="https://langchain.com">LangChain</a> 🔨
+
+Contributors: Vishal Shenoy, Raquib Alam, Arnav Akula, Matthew Wang 👨‍💻

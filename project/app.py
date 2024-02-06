@@ -11,7 +11,6 @@ import os
 import pandas as pd
 from langchain.chains import SimpleSequentialChain
 
-
 # Load environment variables
 load_dotenv('.env')
 
