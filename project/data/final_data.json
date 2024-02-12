@@ -1,0 +1,7219 @@
+[
+    {
+        "name": "Tyreek Hill",
+        "team": "Mia",
+        "position": "WR",
+        "avg_proj": 20.027777777777782,
+        "avg_total": 20.91111111111111
+    },
+    {
+        "name": "Brandon Aiyuk",
+        "team": "SF",
+        "position": "WR",
+        "avg_proj": 12.683333333333334,
+        "avg_total": 13.844444444444443
+    },
+    {
+        "name": "Jakobi Meyers",
+        "team": "LV",
+        "position": "WR",
+        "avg_proj": 10.299999999999999,
+        "avg_total": 12.143333333333333
+    },
+    {
+        "name": "Tua Tagovailoa",
+        "team": "Mia",
+        "position": "QB",
+        "avg_proj": 16.866666666666664,
+        "avg_total": 15.019999999999998
+    },
+    {
+        "name": "Aaron Jones",
+        "team": "GB",
+        "position": "RB",
+        "avg_proj": 8.988888888888889,
+        "avg_total": 7.4944444444444445
+    },
+    {
+        "name": "Austin Ekeler",
+        "team": "LAC",
+        "position": "RB",
+        "avg_proj": 13.683333333333335,
+        "avg_total": 10.3
+    },
+    {
+        "name": "Stefon Diggs",
+        "team": "Buf",
+        "position": "WR",
+        "avg_proj": 16.950000000000003,
+        "avg_total": 15.211111111111112
+    },
+    {
+        "name": "Christian McCaffrey",
+        "team": "SF",
+        "position": "RB",
+        "avg_proj": 20.055555555555557,
+        "avg_total": 21.738888888888894
+    },
+    {
+        "name": "Tyler Allgeier",
+        "team": "Atl",
+        "position": "RB",
+        "avg_proj": 7.844444444444444,
+        "avg_total": 7.644444444444444
+    },
+    {
+        "name": "Kendrick Bourne",
+        "team": "NE",
+        "position": "WR",
+        "avg_proj": 4.51111111111111,
+        "avg_total": 5.5555555555555545
+    },
+    {
+        "name": "Mac Jones",
+        "team": "NE",
+        "position": "QB",
+        "avg_proj": 7.983333333333334,
+        "avg_total": 5.9111111111111105
+    },
+    {
+        "name": "Calvin Ridley",
+        "team": "Jax",
+        "position": "WR",
+        "avg_proj": 13.072222222222223,
+        "avg_total": 12.772222222222224
+    },
+    {
+        "name": "Justin Jefferson",
+        "team": "Min",
+        "position": "WR",
+        "avg_proj": 11.216666666666667,
+        "avg_total": 11.233333333333333
+    },
+    {
+        "name": "Michael Pittman Jr.",
+        "team": "Ind",
+        "position": "WR",
+        "avg_proj": 13.255555555555553,
+        "avg_total": 13.899999999999999
+    },
+    {
+        "name": "Jordan Love",
+        "team": "GB",
+        "position": "QB",
+        "avg_proj": 15.172222222222224,
+        "avg_total": 17.725555555555555
+    },
+    {
+        "name": "Tony Pollard",
+        "team": "Dal",
+        "position": "RB",
+        "avg_proj": 15.894444444444446,
+        "avg_total": 12.366666666666667
+    },
+    {
+        "name": "Puka Nacua",
+        "team": "LAR",
+        "position": "WR",
+        "avg_proj": 13.088888888888889,
+        "avg_total": 16.583333333333332
+    },
+    {
+        "name": "Travis Etienne Jr.",
+        "team": "Jax",
+        "position": "RB",
+        "avg_proj": 15.272222222222224,
+        "avg_total": 15.688888888888888
+    },
+    {
+        "name": "Anthony Richardson",
+        "team": "Ind",
+        "position": "QB",
+        "avg_proj": 4.199999999999999,
+        "avg_total": 4.0377777777777775
+    },
+    {
+        "name": "Justin Herbert",
+        "team": "LAC",
+        "position": "QB",
+        "avg_proj": 13.727777777777776,
+        "avg_total": 13.008888888888887
+    },
+    {
+        "name": "Deshaun Watson",
+        "team": "Cle",
+        "position": "QB",
+        "avg_proj": 5.438888888888889,
+        "avg_total": 4.822222222222223
+    },
+    {
+        "name": "Bijan Robinson",
+        "team": "Atl",
+        "position": "RB",
+        "avg_proj": 15.344444444444443,
+        "avg_total": 13.683333333333334
+    },
+    {
+        "name": "Patrick Mahomes",
+        "team": "KC",
+        "position": "QB",
+        "avg_proj": 19.049999999999997,
+        "avg_total": 15.569999999999997
+    },
+    {
+        "name": "Chris Olave",
+        "team": "NO",
+        "position": "WR",
+        "avg_proj": 13.450000000000001,
+        "avg_total": 12.850000000000001
+    },
+    {
+        "name": "Amon-Ra St. Brown",
+        "team": "Det",
+        "position": "WR",
+        "avg_proj": 15.705555555555552,
+        "avg_total": 18.383333333333333
+    },
+    {
+        "name": "Rashid Shaheed",
+        "team": "NO",
+        "position": "WR",
+        "avg_proj": 7.438888888888889,
+        "avg_total": 8.644444444444444
+    },
+    {
+        "name": "Mike Evans",
+        "team": "TB",
+        "position": "WR",
+        "avg_proj": 14.266666666666667,
+        "avg_total": 15.694444444444445
+    },
+    {
+        "name": "Romeo Doubs",
+        "team": "GB",
+        "position": "WR",
+        "avg_proj": 9.061111111111112,
+        "avg_total": 9.68888888888889
+    },
+    {
+        "name": "Tutu Atwell",
+        "team": "LAR",
+        "position": "WR",
+        "avg_proj": 6.933333333333334,
+        "avg_total": 6.244444444444444
+    },
+    {
+        "name": "Trevor Lawrence",
+        "team": "Jax",
+        "position": "QB",
+        "avg_proj": 15.027777777777779,
+        "avg_total": 14.585555555555556
+    },
+    {
+        "name": "Zay Flowers",
+        "team": "Bal",
+        "position": "WR",
+        "avg_proj": 11.499999999999998,
+        "avg_total": 11.466666666666665
+    },
+    {
+        "name": "DeVonta Smith",
+        "team": "Phi",
+        "position": "WR",
+        "avg_proj": 12.238888888888889,
+        "avg_total": 12.644444444444444
+    },
+    {
+        "name": "Roschon Johnson",
+        "team": "Chi",
+        "position": "RB",
+        "avg_proj": 6.666666666666667,
+        "avg_total": 5.6722222222222225
+    },
+    {
+        "name": "Kyren Williams",
+        "team": "LAR",
+        "position": "RB",
+        "avg_proj": 11.28888888888889,
+        "avg_total": 14.166666666666666
+    },
+    {
+        "name": "Brock Purdy",
+        "team": "SF",
+        "position": "QB",
+        "avg_proj": 15.744444444444447,
+        "avg_total": 16.422222222222224
+    },
+    {
+        "name": "Nick Chubb",
+        "team": "Cle",
+        "position": "RB",
+        "avg_proj": 1.738888888888889,
+        "avg_total": 1.2833333333333334
+    },
+    {
+        "name": "Hunter Henry",
+        "team": "NE",
+        "position": "TE",
+        "avg_proj": 5.800000000000001,
+        "avg_total": 6.661111111111111
+    },
+    {
+        "name": "Zay Jones",
+        "team": "Jax",
+        "position": "WR",
+        "avg_proj": 4.827777777777778,
+        "avg_total": 4.338888888888889
+    },
+    {
+        "name": "Kirk Cousins",
+        "team": "Min",
+        "position": "QB",
+        "avg_proj": 8.072222222222221,
+        "avg_total": 8.318888888888889
+    },
+    {
+        "name": "Jordan Addison",
+        "team": "Min",
+        "position": "WR",
+        "avg_proj": 11.283333333333335,
+        "avg_total": 12.294444444444444
+    },
+    {
+        "name": "Baker Mayfield",
+        "team": "TB",
+        "position": "QB",
+        "avg_proj": 14.961111111111112,
+        "avg_total": 15.225555555555555
+    },
+    {
+        "name": "Breece Hall",
+        "team": "NYJ",
+        "position": "RB",
+        "avg_proj": 13.25555555555556,
+        "avg_total": 16.13888888888889
+    },
+    {
+        "name": "Darnell Mooney",
+        "team": "Chi",
+        "position": "WR",
+        "avg_proj": 6.105555555555555,
+        "avg_total": 4.383333333333334
+    },
+    {
+        "name": "Russell Wilson",
+        "team": "Den",
+        "position": "QB",
+        "avg_proj": 13.766666666666667,
+        "avg_total": 14.272222222222224
+    },
+    {
+        "name": "Sam Howell",
+        "team": "Wsh",
+        "position": "QB",
+        "avg_proj": 14.738888888888889,
+        "avg_total": 14.305555555555555
+    },
+    {
+        "name": "Hayden Hurst",
+        "team": "Car",
+        "position": "TE",
+        "avg_proj": 3.033333333333333,
+        "avg_total": 2.3555555555555556
+    },
+    {
+        "name": "Joshua Kelley",
+        "team": "LAC",
+        "position": "RB",
+        "avg_proj": 5.4111111111111105,
+        "avg_total": 3.4277777777777776
+    },
+    {
+        "name": "Jimmy Garoppolo",
+        "team": "LV",
+        "position": "QB",
+        "avg_proj": 4.794444444444444,
+        "avg_total": 3.561111111111112
+    },
+    {
+        "name": "A.J. Brown",
+        "team": "Phi",
+        "position": "WR",
+        "avg_proj": 16.77777777777778,
+        "avg_total": 16.08888888888889
+    },
+    {
+        "name": "Rhamondre Stevenson",
+        "team": "NE",
+        "position": "RB",
+        "avg_proj": 9.316666666666668,
+        "avg_total": 8.094444444444445
+    },
+    {
+        "name": "Derek Carr",
+        "team": "NO",
+        "position": "QB",
+        "avg_proj": 13.616666666666667,
+        "avg_total": 13.395555555555553
+    },
+    {
+        "name": "Justin Fields",
+        "team": "Chi",
+        "position": "QB",
+        "avg_proj": 13.511111111111113,
+        "avg_total": 12.787777777777777
+    },
+    {
+        "name": "Matthew Stafford",
+        "team": "LAR",
+        "position": "QB",
+        "avg_proj": 12.4,
+        "avg_total": 13.505555555555556
+    },
+    {
+        "name": "Garrett Wilson",
+        "team": "NYJ",
+        "position": "WR",
+        "avg_proj": 14.13888888888889,
+        "avg_total": 11.844444444444447
+    },
+    {
+        "name": "Keenan Allen",
+        "team": "LAC",
+        "position": "WR",
+        "avg_proj": 13.083333333333334,
+        "avg_total": 15.49222222222222
+    },
+    {
+        "name": "Jared Goff",
+        "team": "Det",
+        "position": "QB",
+        "avg_proj": 14.56111111111111,
+        "avg_total": 16.06111111111111
+    },
+    {
+        "name": "Nico Collins",
+        "team": "Hou",
+        "position": "WR",
+        "avg_proj": 11.538888888888888,
+        "avg_total": 14.466666666666669
+    },
+    {
+        "name": "Derrick Henry",
+        "team": "Ten",
+        "position": "RB",
+        "avg_proj": 14.272222222222224,
+        "avg_total": 13.703333333333333
+    },
+    {
+        "name": "DK Metcalf",
+        "team": "Sea",
+        "position": "WR",
+        "avg_proj": 13.205555555555556,
+        "avg_total": 12.52222222222222
+    },
+    {
+        "name": "Brian Robinson Jr.",
+        "team": "Wsh",
+        "position": "RB",
+        "avg_proj": 9.622222222222224,
+        "avg_total": 11.0
+    },
+    {
+        "name": "DeAndre Hopkins",
+        "team": "Ten",
+        "position": "WR",
+        "avg_proj": 13.105555555555556,
+        "avg_total": 12.422222222222222
+    },
+    {
+        "name": "David Montgomery",
+        "team": "Det",
+        "position": "RB",
+        "avg_proj": 10.855555555555553,
+        "avg_total": 11.511111111111113
+    },
+    {
+        "name": "Alexander Mattison",
+        "team": "Min",
+        "position": "RB",
+        "avg_proj": 10.272222222222222,
+        "avg_total": 7.3999999999999995
+    },
+    {
+        "name": "Courtland Sutton",
+        "team": "Den",
+        "position": "WR",
+        "avg_proj": 10.983333333333334,
+        "avg_total": 10.566666666666665
+    },
+    {
+        "name": "Raheem Mostert",
+        "team": "Mia",
+        "position": "RB",
+        "avg_proj": 11.950000000000003,
+        "avg_total": 14.872222222222225
+    },
+    {
+        "name": "River Cracraft",
+        "team": "Mia",
+        "position": "WR",
+        "avg_proj": 1.1777777777777776,
+        "avg_total": 1.5055555555555555
+    },
+    {
+        "name": "Justice Hill",
+        "team": "Bal",
+        "position": "RB",
+        "avg_proj": 5.661111111111112,
+        "avg_total": 6.072222222222222
+    },
+    {
+        "name": "Davante Adams",
+        "team": "LV",
+        "position": "WR",
+        "avg_proj": 16.427777777777777,
+        "avg_total": 14.744444444444447
+    },
+    {
+        "name": "Jalen Hurts",
+        "team": "Phi",
+        "position": "QB",
+        "avg_proj": 20.82222222222222,
+        "avg_total": 19.823333333333338
+    },
+    {
+        "name": "James Conner",
+        "team": "Ari",
+        "position": "RB",
+        "avg_proj": 10.250000000000002,
+        "avg_total": 11.194444444444445
+    },
+    {
+        "name": "Josh Reynolds",
+        "team": "Det",
+        "position": "WR",
+        "avg_proj": 6.305555555555556,
+        "avg_total": 7.155555555555555
+    },
+    {
+        "name": "Jaylen Waddle",
+        "team": "Mia",
+        "position": "WR",
+        "avg_proj": 11.794444444444444,
+        "avg_total": 11.033333333333333
+    },
+    {
+        "name": "Miles Sanders",
+        "team": "Car",
+        "position": "RB",
+        "avg_proj": 8.483333333333333,
+        "avg_total": 4.866666666666668
+    },
+    {
+        "name": "Samaje Perine",
+        "team": "Den",
+        "position": "RB",
+        "avg_proj": 7.000000000000001,
+        "avg_total": 6.738888888888889
+    },
+    {
+        "name": "CeeDee Lamb",
+        "team": "Dal",
+        "position": "WR",
+        "avg_proj": 18.327777777777776,
+        "avg_total": 22.400000000000002
+    },
+    {
+        "name": "J.K. Dobbins",
+        "team": "Bal",
+        "position": "RB",
+        "avg_proj": 0.7055555555555555,
+        "avg_total": 0.6499999999999999
+    },
+    {
+        "name": "Robert Woods",
+        "team": "Hou",
+        "position": "WR",
+        "avg_proj": 6.638888888888889,
+        "avg_total": 4.96111111111111
+    },
+    {
+        "name": "Rashee Rice",
+        "team": "KC",
+        "position": "WR",
+        "avg_proj": 9.327777777777776,
+        "avg_total": 11.805555555555554
+    },
+    {
+        "name": "T.J. Hockenson",
+        "team": "Min",
+        "position": "TE",
+        "avg_proj": 11.366666666666667,
+        "avg_total": 12.166666666666668
+    },
+    {
+        "name": "Khalil Herbert",
+        "team": "Chi",
+        "position": "RB",
+        "avg_proj": 7.066666666666666,
+        "avg_total": 6.25
+    },
+    {
+        "name": "Kenneth Gainwell",
+        "team": "Phi",
+        "position": "RB",
+        "avg_proj": 6.199999999999999,
+        "avg_total": 5.409999999999999
+    },
+    {
+        "name": "Allen Robinson II",
+        "team": "Pit",
+        "position": "WR",
+        "avg_proj": 4.738888888888889,
+        "avg_total": 3.4444444444444446
+    },
+    {
+        "name": "Deebo Samuel",
+        "team": "SF",
+        "position": "WR",
+        "avg_proj": 12.572222222222225,
+        "avg_total": 13.538888888888888
+    },
+    {
+        "name": "Donald Parham Jr.",
+        "team": "LAC",
+        "position": "TE",
+        "avg_proj": 3.572222222222223,
+        "avg_total": 4.416666666666666
+    },
+    {
+        "name": "Michael Thomas",
+        "team": "NO",
+        "position": "WR",
+        "avg_proj": 6.455555555555557,
+        "avg_total": 4.98888888888889
+    },
+    {
+        "name": "Curtis Samuel",
+        "team": "Wsh",
+        "position": "WR",
+        "avg_proj": 8.677777777777775,
+        "avg_total": 8.733333333333334
+    },
+    {
+        "name": "Kenneth Walker III",
+        "team": "Sea",
+        "position": "RB",
+        "avg_proj": 12.81111111111111,
+        "avg_total": 11.077777777777776
+    },
+    {
+        "name": "C.J. Stroud",
+        "team": "Hou",
+        "position": "QB",
+        "avg_proj": 14.155555555555557,
+        "avg_total": 15.33444444444444
+    },
+    {
+        "name": "KaVontae Turpin",
+        "team": "Dal",
+        "position": "WR",
+        "avg_proj": 1.8611111111111112,
+        "avg_total": 3.3166666666666664
+    },
+    {
+        "name": "Joe Mixon",
+        "team": "Cin",
+        "position": "RB",
+        "avg_proj": 14.372222222222222,
+        "avg_total": 14.833333333333334
+    },
+    {
+        "name": "James Cook",
+        "team": "Buf",
+        "position": "RB",
+        "avg_proj": 13.411111111111111,
+        "avg_total": 12.927777777777777
+    },
+    {
+        "name": "Chris Godwin",
+        "team": "TB",
+        "position": "WR",
+        "avg_proj": 12.494444444444445,
+        "avg_total": 11.622222222222224
+    },
+    {
+        "name": "Evan Engram",
+        "team": "Jax",
+        "position": "TE",
+        "avg_proj": 10.63888888888889,
+        "avg_total": 12.794444444444444
+    },
+    {
+        "name": "Nick Westbrook-Ikhine",
+        "team": "Ten",
+        "position": "WR",
+        "avg_proj": 4.333333333333333,
+        "avg_total": 4.722222222222222
+    },
+    {
+        "name": "Javonte Williams",
+        "team": "Den",
+        "position": "RB",
+        "avg_proj": 10.905555555555555,
+        "avg_total": 9.955555555555556
+    },
+    {
+        "name": "Calvin Austin III",
+        "team": "Pit",
+        "position": "WR",
+        "avg_proj": 3.4277777777777785,
+        "avg_total": 2.927777777777778
+    },
+    {
+        "name": "Kenny Pickett",
+        "team": "Pit",
+        "position": "QB",
+        "avg_proj": 9.633333333333335,
+        "avg_total": 6.122222222222223
+    },
+    {
+        "name": "Isiah Pacheco",
+        "team": "KC",
+        "position": "RB",
+        "avg_proj": 11.633333333333333,
+        "avg_total": 11.883333333333333
+    },
+    {
+        "name": "Cole Kmet",
+        "team": "Chi",
+        "position": "TE",
+        "avg_proj": 9.077777777777776,
+        "avg_total": 10.06111111111111
+    },
+    {
+        "name": "Saquon Barkley",
+        "team": "NYG",
+        "position": "RB",
+        "avg_proj": 13.23333333333333,
+        "avg_total": 12.399999999999999
+    },
+    {
+        "name": "Elijah Moore",
+        "team": "Cle",
+        "position": "WR",
+        "avg_proj": 8.761111111111113,
+        "avg_total": 7.33888888888889
+    },
+    {
+        "name": "Blake Bell",
+        "team": "KC",
+        "position": "TE",
+        "avg_proj": 1.238888888888889,
+        "avg_total": 0.6444444444444444
+    },
+    {
+        "name": "Ja'Marr Chase",
+        "team": "Cin",
+        "position": "WR",
+        "avg_proj": 16.90555555555555,
+        "avg_total": 14.595555555555555
+    },
+    {
+        "name": "Josh Jacobs",
+        "team": "LV",
+        "position": "RB",
+        "avg_proj": 11.927777777777777,
+        "avg_total": 10.06111111111111
+    },
+    {
+        "name": "Lil'Jordan Humphrey",
+        "team": "Den",
+        "position": "WR",
+        "avg_proj": 1.4833333333333334,
+        "avg_total": 2.622222222222222
+    },
+    {
+        "name": "Geno Smith",
+        "team": "Sea",
+        "position": "QB",
+        "avg_proj": 13.577777777777776,
+        "avg_total": 12.625555555555557
+    },
+    {
+        "name": "Josh Allen",
+        "team": "Buf",
+        "position": "QB",
+        "avg_proj": 20.138888888888893,
+        "avg_total": 21.813333333333336
+    },
+    {
+        "name": "Jahan Dotson",
+        "team": "Wsh",
+        "position": "WR",
+        "avg_proj": 8.694444444444445,
+        "avg_total": 6.933333333333334
+    },
+    {
+        "name": "Sam LaPorta",
+        "team": "Det",
+        "position": "TE",
+        "avg_proj": 10.61111111111111,
+        "avg_total": 13.294444444444444
+    },
+    {
+        "name": "Dalvin Cook",
+        "team": "NYJ",
+        "position": "RB",
+        "avg_proj": 4.0777777777777775,
+        "avg_total": 1.8222222222222224
+    },
+    {
+        "name": "Cam Akers",
+        "team": "Min",
+        "position": "RB",
+        "avg_proj": 2.788888888888889,
+        "avg_total": 2.594444444444444
+    },
+    {
+        "name": "Chuba Hubbard",
+        "team": "Car",
+        "position": "RB",
+        "avg_proj": 9.583333333333334,
+        "avg_total": 10.138888888888888
+    },
+    {
+        "name": "Desmond Ridder",
+        "team": "Atl",
+        "position": "QB",
+        "avg_proj": 9.594444444444443,
+        "avg_total": 9.841111111111111
+    },
+    {
+        "name": "Trey Palmer",
+        "team": "TB",
+        "position": "WR",
+        "avg_proj": 5.605555555555556,
+        "avg_total": 5.316666666666667
+    },
+    {
+        "name": "Marquise Brown",
+        "team": "Ari",
+        "position": "WR",
+        "avg_proj": 10.216666666666667,
+        "avg_total": 7.483333333333334
+    },
+    {
+        "name": "George Pickens",
+        "team": "Pit",
+        "position": "WR",
+        "avg_proj": 10.744444444444447,
+        "avg_total": 11.600000000000001
+    },
+    {
+        "name": "Mike Williams",
+        "team": "LAC",
+        "position": "WR",
+        "avg_proj": 2.1888888888888887,
+        "avg_total": 2.788888888888889
+    },
+    {
+        "name": "Harrison Bryant",
+        "team": "Cle",
+        "position": "TE",
+        "avg_proj": 2.011111111111111,
+        "avg_total": 2.1055555555555556
+    },
+    {
+        "name": "Adam Trautman",
+        "team": "Den",
+        "position": "TE",
+        "avg_proj": 4.0555555555555545,
+        "avg_total": 3.355555555555555
+    },
+    {
+        "name": "Logan Thomas",
+        "team": "Wsh",
+        "position": "TE",
+        "avg_proj": 7.311111111111113,
+        "avg_total": 7.044444444444444
+    },
+    {
+        "name": "Zach Wilson",
+        "team": "NYJ",
+        "position": "QB",
+        "avg_proj": 8.172222222222222,
+        "avg_total": 6.663333333333333
+    },
+    {
+        "name": "Zach Ertz",
+        "team": "Ari",
+        "position": "TE",
+        "avg_proj": 3.3444444444444446,
+        "avg_total": 2.8722222222222222
+    },
+    {
+        "name": "Jahmyr Gibbs",
+        "team": "Det",
+        "position": "RB",
+        "avg_proj": 12.622222222222224,
+        "avg_total": 13.450000000000003
+    },
+    {
+        "name": "Luke Musgrave",
+        "team": "GB",
+        "position": "TE",
+        "avg_proj": 4.666666666666666,
+        "avg_total": 4.177777777777777
+    },
+    {
+        "name": "Demario Douglas",
+        "team": "NE",
+        "position": "WR",
+        "avg_proj": 5.983333333333333,
+        "avg_total": 6.491666666666667
+    },
+    {
+        "name": "Tyler Higbee",
+        "team": "LAR",
+        "position": "TE",
+        "avg_proj": 6.333333333333333,
+        "avg_total": 6.027777777777778
+    },
+    {
+        "name": "Kylen Granson",
+        "team": "Ind",
+        "position": "TE",
+        "avg_proj": 4.422222222222222,
+        "avg_total": 4.055555555555555
+    },
+    {
+        "name": "Diontae Johnson",
+        "team": "Pit",
+        "position": "WR",
+        "avg_proj": 8.594444444444443,
+        "avg_total": 8.483333333333334
+    },
+    {
+        "name": "Bryce Young",
+        "team": "Car",
+        "position": "QB",
+        "avg_proj": 11.622222222222222,
+        "avg_total": 8.687777777777779
+    },
+    {
+        "name": "Rondale Moore",
+        "team": "Ari",
+        "position": "WR",
+        "avg_proj": 7.205555555555557,
+        "avg_total": 5.833333333333333
+    },
+    {
+        "name": "Durham Smythe",
+        "team": "Mia",
+        "position": "TE",
+        "avg_proj": 4.4944444444444445,
+        "avg_total": 3.9777777777777783
+    },
+    {
+        "name": "JuJu Smith-Schuster",
+        "team": "NE",
+        "position": "WR",
+        "avg_proj": 4.616666666666666,
+        "avg_total": 3.388888888888889
+    },
+    {
+        "name": "Ezekiel Elliott",
+        "team": "NE",
+        "position": "RB",
+        "avg_proj": 8.961111111111112,
+        "avg_total": 9.694444444444445
+    },
+    {
+        "name": "Pat Freiermuth",
+        "team": "Pit",
+        "position": "TE",
+        "avg_proj": 5.683333333333333,
+        "avg_total": 4.266666666666667
+    },
+    {
+        "name": "Jamaal Williams",
+        "team": "NO",
+        "position": "RB",
+        "avg_proj": 5.183333333333334,
+        "avg_total": 3.3777777777777778
+    },
+    {
+        "name": "Braxton Berrios",
+        "team": "Mia",
+        "position": "WR",
+        "avg_proj": 4.8277777777777775,
+        "avg_total": 3.216666666666667
+    },
+    {
+        "name": "Rachaad White",
+        "team": "TB",
+        "position": "RB",
+        "avg_proj": 13.7,
+        "avg_total": 14.883333333333335
+    },
+    {
+        "name": "Jaylen Warren",
+        "team": "Pit",
+        "position": "RB",
+        "avg_proj": 10.605555555555556,
+        "avg_total": 10.911111111111111
+    },
+    {
+        "name": "Marquez Valdes-Scantling",
+        "team": "KC",
+        "position": "WR",
+        "avg_proj": 5.633333333333334,
+        "avg_total": 3.1388888888888893
+    },
+    {
+        "name": "Amari Cooper",
+        "team": "Cle",
+        "position": "WR",
+        "avg_proj": 9.677777777777777,
+        "avg_total": 12.61111111111111
+    },
+    {
+        "name": "Dameon Pierce",
+        "team": "Hou",
+        "position": "RB",
+        "avg_proj": 7.083333333333332,
+        "avg_total": 4.594444444444444
+    },
+    {
+        "name": "Allen Lazard",
+        "team": "NYJ",
+        "position": "WR",
+        "avg_proj": 5.133333333333334,
+        "avg_total": 3.3388888888888886
+    },
+    {
+        "name": "Jayden Reed",
+        "team": "GB",
+        "position": "WR",
+        "avg_proj": 8.88888888888889,
+        "avg_total": 12.066666666666666
+    },
+    {
+        "name": "Darren Waller",
+        "team": "NYG",
+        "position": "TE",
+        "avg_proj": 7.333333333333332,
+        "avg_total": 6.288888888888889
+    },
+    {
+        "name": "Dalton Kincaid",
+        "team": "Buf",
+        "position": "TE",
+        "avg_proj": 8.416666666666664,
+        "avg_total": 8.35
+    },
+    {
+        "name": "Juwan Johnson",
+        "team": "NO",
+        "position": "TE",
+        "avg_proj": 5.272222222222222,
+        "avg_total": 5.433333333333334
+    },
+    {
+        "name": "Mike Gesicki",
+        "team": "NE",
+        "position": "TE",
+        "avg_proj": 4.961111111111112,
+        "avg_total": 3.6333333333333337
+    },
+    {
+        "name": "Lamar Jackson",
+        "team": "Bal",
+        "position": "QB",
+        "avg_proj": 18.6,
+        "avg_total": 18.401111111111113
+    },
+    {
+        "name": "Rashod Bateman",
+        "team": "Bal",
+        "position": "WR",
+        "avg_proj": 5.366666666666666,
+        "avg_total": 4.250000000000001
+    },
+    {
+        "name": "Justin Watson",
+        "team": "KC",
+        "position": "WR",
+        "avg_proj": 4.4944444444444445,
+        "avg_total": 4.944444444444444
+    },
+    {
+        "name": "Kyle Pitts",
+        "team": "Atl",
+        "position": "TE",
+        "avg_proj": 8.172222222222222,
+        "avg_total": 7.627777777777776
+    },
+    {
+        "name": "Tank Dell",
+        "team": "Hou",
+        "position": "WR",
+        "avg_proj": 7.155555555555556,
+        "avg_total": 9.166666666666666
+    },
+    {
+        "name": "Van Jefferson",
+        "team": "LAR",
+        "position": "WR",
+        "avg_proj": 4.583333333333333,
+        "avg_total": 2.2944444444444443
+    },
+    {
+        "name": "Dak Prescott",
+        "team": "Dal",
+        "position": "QB",
+        "avg_proj": 18.027777777777775,
+        "avg_total": 19.04666666666667
+    },
+    {
+        "name": "Josh Oliver",
+        "team": "Min",
+        "position": "TE",
+        "avg_proj": 2.666666666666667,
+        "avg_total": 2.961111111111111
+    },
+    {
+        "name": "K.J. Osborn",
+        "team": "Min",
+        "position": "WR",
+        "avg_proj": 7.1499999999999995,
+        "avg_total": 6.666666666666668
+    },
+    {
+        "name": "Noah Gray",
+        "team": "KC",
+        "position": "TE",
+        "avg_proj": 4.111111111111112,
+        "avg_total": 3.922222222222222
+    },
+    {
+        "name": "Mack Hollins",
+        "team": "Atl",
+        "position": "WR",
+        "avg_proj": 2.2999999999999994,
+        "avg_total": 2.3944444444444444
+    },
+    {
+        "name": "Josh Downs",
+        "team": "Ind",
+        "position": "WR",
+        "avg_proj": 8.938888888888886,
+        "avg_total": 8.72777777777778
+    },
+    {
+        "name": "Xavier Gipson",
+        "team": "NYJ",
+        "position": "WR",
+        "avg_proj": 2.983333333333333,
+        "avg_total": 3.261111111111111
+    },
+    {
+        "name": "Odell Beckham Jr.",
+        "team": "Bal",
+        "position": "WR",
+        "avg_proj": 7.077777777777778,
+        "avg_total": 5.972222222222223
+    },
+    {
+        "name": "AJ Dillon",
+        "team": "GB",
+        "position": "RB",
+        "avg_proj": 7.811111111111111,
+        "avg_total": 6.533333333333332
+    },
+    {
+        "name": "Dawson Knox",
+        "team": "Buf",
+        "position": "TE",
+        "avg_proj": 4.038888888888889,
+        "avg_total": 3.0333333333333337
+    },
+    {
+        "name": "Alec Ingold",
+        "team": "Mia",
+        "position": "RB",
+        "avg_proj": 1.5,
+        "avg_total": 1.3833333333333333
+    },
+    {
+        "name": "Najee Harris",
+        "team": "Pit",
+        "position": "RB",
+        "avg_proj": 11.127777777777776,
+        "avg_total": 10.861111111111112
+    },
+    {
+        "name": "Tank Bigsby",
+        "team": "Jax",
+        "position": "RB",
+        "avg_proj": 2.238888888888889,
+        "avg_total": 1.2666666666666668
+    },
+    {
+        "name": "Gabe Davis",
+        "team": "Buf",
+        "position": "WR",
+        "avg_proj": 9.71666666666667,
+        "avg_total": 8.966666666666667
+    },
+    {
+        "name": "Gus Edwards",
+        "team": "Bal",
+        "position": "RB",
+        "avg_proj": 8.977777777777778,
+        "avg_total": 10.38888888888889
+    },
+    {
+        "name": "Terry McLaurin",
+        "team": "Wsh",
+        "position": "WR",
+        "avg_proj": 12.294444444444444,
+        "avg_total": 11.622222222222222
+    },
+    {
+        "name": "Brandon Johnson",
+        "team": "Den",
+        "position": "WR",
+        "avg_proj": 2.2777777777777772,
+        "avg_total": 4.077777777777778
+    },
+    {
+        "name": "George Kittle",
+        "team": "SF",
+        "position": "TE",
+        "avg_proj": 10.749999999999998,
+        "avg_total": 11.28888888888889
+    },
+    {
+        "name": "Noah Brown",
+        "team": "Hou",
+        "position": "WR",
+        "avg_proj": 4.855555555555555,
+        "avg_total": 5.644444444444444
+    },
+    {
+        "name": "Mike Boone",
+        "team": "Hou",
+        "position": "RB",
+        "avg_proj": 1.338888888888889,
+        "avg_total": 0.7388888888888889
+    },
+    {
+        "name": "Treylon Burks",
+        "team": "Ten",
+        "position": "WR",
+        "avg_proj": 4.683333333333334,
+        "avg_total": 2.216666666666667
+    },
+    {
+        "name": "Irv Smith Jr.",
+        "team": "Cin",
+        "position": "TE",
+        "avg_proj": 3.533333333333333,
+        "avg_total": 1.8611111111111112
+    },
+    {
+        "name": "DJ Moore",
+        "team": "Chi",
+        "position": "WR",
+        "avg_proj": 13.622222222222224,
+        "avg_total": 15.916666666666666
+    },
+    {
+        "name": "Darius Slayton",
+        "team": "NYG",
+        "position": "WR",
+        "avg_proj": 7.0166666666666675,
+        "avg_total": 8.38888888888889
+    },
+    {
+        "name": "Daniel Jones",
+        "team": "NYG",
+        "position": "QB",
+        "avg_proj": 5.483333333333333,
+        "avg_total": 3.1644444444444435
+    },
+    {
+        "name": "David Njoku",
+        "team": "Cle",
+        "position": "TE",
+        "avg_proj": 9.511111111111113,
+        "avg_total": 11.177777777777779
+    },
+    {
+        "name": "D'Onta Foreman",
+        "team": "Chi",
+        "position": "RB",
+        "avg_proj": 4.211111111111111,
+        "avg_total": 5.066666666666667
+    },
+    {
+        "name": "Sean Tucker",
+        "team": "TB",
+        "position": "RB",
+        "avg_proj": 1.2,
+        "avg_total": 0.2888888888888889
+    },
+    {
+        "name": "Gerald Everett",
+        "team": "LAC",
+        "position": "TE",
+        "avg_proj": 6.411111111111111,
+        "avg_total": 6.172222222222223
+    },
+    {
+        "name": "Terrace Marshall Jr.",
+        "team": "Car",
+        "position": "WR",
+        "avg_proj": 2.9894736842105267,
+        "avg_total": 1.7315789473684209
+    },
+    {
+        "name": "Trey McBride",
+        "team": "Ari",
+        "position": "TE",
+        "avg_proj": 7.950000000000001,
+        "avg_total": 10.083333333333334
+    },
+    {
+        "name": "Jaxon Smith-Njigba",
+        "team": "Sea",
+        "position": "WR",
+        "avg_proj": 8.894444444444446,
+        "avg_total": 8.322222222222221
+    },
+    {
+        "name": "Deonte Harty",
+        "team": "Buf",
+        "position": "WR",
+        "avg_proj": 2.4444444444444446,
+        "avg_total": 2.2222222222222223
+    },
+    {
+        "name": "Brandin Cooks",
+        "team": "Dal",
+        "position": "WR",
+        "avg_proj": 8.68888888888889,
+        "avg_total": 9.622222222222222
+    },
+    {
+        "name": "Greg Dulcich",
+        "team": "Den",
+        "position": "TE",
+        "avg_proj": 0.5944444444444444,
+        "avg_total": 0.3055555555555556
+    },
+    {
+        "name": "Laviska Shenault Jr.",
+        "team": "Car",
+        "position": "WR",
+        "avg_proj": 1.7722222222222221,
+        "avg_total": 1.1944444444444444
+    },
+    {
+        "name": "Michael Wilson",
+        "team": "Ari",
+        "position": "WR",
+        "avg_proj": 5.327777777777778,
+        "avg_total": 6.361111111111111
+    },
+    {
+        "name": "Damien Harris",
+        "team": "Buf",
+        "position": "RB",
+        "avg_proj": 1.3333333333333333,
+        "avg_total": 1.0555555555555558
+    },
+    {
+        "name": "Clyde Edwards-Helaire",
+        "team": "KC",
+        "position": "RB",
+        "avg_proj": 4.75,
+        "avg_total": 3.894444444444444
+    },
+    {
+        "name": "Cade Otton",
+        "team": "TB",
+        "position": "TE",
+        "avg_proj": 6.855555555555555,
+        "avg_total": 6.472222222222223
+    },
+    {
+        "name": "Connor Heyward",
+        "team": "Pit",
+        "position": "TE",
+        "avg_proj": 2.666666666666666,
+        "avg_total": 2.2055555555555553
+    },
+    {
+        "name": "Deon Jackson",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.011111111111111112
+    },
+    {
+        "name": "Tyjae Spears",
+        "team": "Ten",
+        "position": "RB",
+        "avg_proj": 8.06111111111111,
+        "avg_total": 8.544444444444444
+    },
+    {
+        "name": "Michael Carter",
+        "team": "NYJ",
+        "position": "RB",
+        "avg_proj": 2.466666666666667,
+        "avg_total": 3.266666666666667
+    },
+    {
+        "name": "Samori Toure",
+        "team": "GB",
+        "position": "WR",
+        "avg_proj": 1.438888888888889,
+        "avg_total": 0.8777777777777779
+    },
+    {
+        "name": "Jonathan Mingo",
+        "team": "Car",
+        "position": "WR",
+        "avg_proj": 7.105555555555553,
+        "avg_total": 4.711111111111112
+    },
+    {
+        "name": "Quez Watkins",
+        "team": "Phi",
+        "position": "WR",
+        "avg_proj": 1.3888888888888888,
+        "avg_total": 1.9555555555555557
+    },
+    {
+        "name": "Will Dissly",
+        "team": "Sea",
+        "position": "TE",
+        "avg_proj": 2.311111111111111,
+        "avg_total": 2.2333333333333334
+    },
+    {
+        "name": "Brock Wright",
+        "team": "Det",
+        "position": "TE",
+        "avg_proj": 1.2444444444444445,
+        "avg_total": 1.5611111111111111
+    },
+    {
+        "name": "Lawrence Cager",
+        "team": "NYG",
+        "position": "TE",
+        "avg_proj": 0.6055555555555556,
+        "avg_total": 0.7555555555555555
+    },
+    {
+        "name": "Ty Montgomery II",
+        "team": "NE",
+        "position": "RB",
+        "avg_proj": 0.4888888888888887,
+        "avg_total": 0.3888888888888889
+    },
+    {
+        "name": "Tyler Scott",
+        "team": "Chi",
+        "position": "WR",
+        "avg_proj": 3.1470588235294117,
+        "avg_total": 2.1117647058823534
+    },
+    {
+        "name": "Adam Thielen",
+        "team": "Car",
+        "position": "WR",
+        "avg_proj": 12.56111111111111,
+        "avg_total": 12.833333333333334
+    },
+    {
+        "name": "Jake Funk",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Joe Burrow",
+        "team": "Cin",
+        "position": "QB",
+        "avg_proj": 10.344444444444441,
+        "avg_total": 8.175555555555555
+    },
+    {
+        "name": "Jake Ferguson",
+        "team": "Dal",
+        "position": "TE",
+        "avg_proj": 9.544444444444444,
+        "avg_total": 9.83888888888889
+    },
+    {
+        "name": "Gary Brightwell",
+        "team": "NYG",
+        "position": "RB",
+        "avg_proj": 1.2888888888888888,
+        "avg_total": 0.6444444444444444
+    },
+    {
+        "name": "Anthony McFarland Jr.",
+        "team": "Pit",
+        "position": "RB",
+        "avg_proj": 0.011111111111111112,
+        "avg_total": 0.17222222222222222
+    },
+    {
+        "name": "Brycen Hopkins",
+        "team": "LAR",
+        "position": "TE",
+        "avg_proj": 1.072222222222222,
+        "avg_total": 0.7111111111111111
+    },
+    {
+        "name": "Tyler Lockett",
+        "team": "Sea",
+        "position": "WR",
+        "avg_proj": 12.372222222222224,
+        "avg_total": 11.244444444444444
+    },
+    {
+        "name": "Tyler Boyd",
+        "team": "Cin",
+        "position": "WR",
+        "avg_proj": 8.622222222222225,
+        "avg_total": 8.044444444444444
+    },
+    {
+        "name": "Kalif Raymond",
+        "team": "Det",
+        "position": "WR",
+        "avg_proj": 4.35,
+        "avg_total": 5.411111111111111
+    },
+    {
+        "name": "Austin Hooper",
+        "team": "LV",
+        "position": "TE",
+        "avg_proj": 3.25,
+        "avg_total": 2.688888888888888
+    },
+    {
+        "name": "Deven Thompkins",
+        "team": "TB",
+        "position": "WR",
+        "avg_proj": 3.1722222222222225,
+        "avg_total": 1.9388888888888889
+    },
+    {
+        "name": "Drew Ogletree",
+        "team": "Ind",
+        "position": "TE",
+        "avg_proj": 2.344444444444445,
+        "avg_total": 1.9833333333333332
+    },
+    {
+        "name": "Quentin Johnston",
+        "team": "LAC",
+        "position": "WR",
+        "avg_proj": 7.183333333333334,
+        "avg_total": 5.222222222222222
+    },
+    {
+        "name": "Marvin Mims Jr.",
+        "team": "Den",
+        "position": "WR",
+        "avg_proj": 4.788888888888889,
+        "avg_total": 3.927777777777778
+    },
+    {
+        "name": "DeeJay Dallas",
+        "team": "Sea",
+        "position": "RB",
+        "avg_proj": 1.6888888888888893,
+        "avg_total": 0.4555555555555555
+    },
+    {
+        "name": "Ty Chandler",
+        "team": "Min",
+        "position": "RB",
+        "avg_proj": 5.583333333333332,
+        "avg_total": 5.611111111111112
+    },
+    {
+        "name": "Latavius Murray",
+        "team": "Buf",
+        "position": "RB",
+        "avg_proj": 5.400000000000001,
+        "avg_total": 4.605555555555555
+    },
+    {
+        "name": "Cole Turner",
+        "team": "Wsh",
+        "position": "TE",
+        "avg_proj": 1.05,
+        "avg_total": 1.2777777777777777
+    },
+    {
+        "name": "C.J. Ham",
+        "team": "Min",
+        "position": "RB",
+        "avg_proj": 0.9666666666666666,
+        "avg_total": 0.5666666666666667
+    },
+    {
+        "name": "Ryan Tannehill",
+        "team": "Ten",
+        "position": "QB",
+        "avg_proj": 6.283333333333333,
+        "avg_total": 4.446666666666667
+    },
+    {
+        "name": "Rico Dowdle",
+        "team": "Dal",
+        "position": "RB",
+        "avg_proj": 5.116666666666667,
+        "avg_total": 5.083333333333334
+    },
+    {
+        "name": "Dalton Schultz",
+        "team": "Hou",
+        "position": "TE",
+        "avg_proj": 8.12222222222222,
+        "avg_total": 8.36111111111111
+    },
+    {
+        "name": "Donovan Peoples-Jones",
+        "team": "Cle",
+        "position": "WR",
+        "avg_proj": 3.061111111111112,
+        "avg_total": 1.5833333333333333
+    },
+    {
+        "name": "Patrick Taylor",
+        "team": "GB",
+        "position": "RB",
+        "avg_proj": 1.8777777777777775,
+        "avg_total": 1.6666666666666667
+    },
+    {
+        "name": "Jordan Akins",
+        "team": "Cle",
+        "position": "TE",
+        "avg_proj": 1.5444444444444445,
+        "avg_total": 1.5666666666666669
+    },
+    {
+        "name": "Chris Evans",
+        "team": "Cin",
+        "position": "RB",
+        "avg_proj": 0.4333333333333333,
+        "avg_total": 0.11666666666666667
+    },
+    {
+        "name": "Teagan Quitoriano",
+        "team": "Hou",
+        "position": "TE",
+        "avg_proj": 0.6388888888888888,
+        "avg_total": 0.2944444444444445
+    },
+    {
+        "name": "Jerick McKinnon",
+        "team": "KC",
+        "position": "RB",
+        "avg_proj": 4.861111111111111,
+        "avg_total": 4.692222222222222
+    },
+    {
+        "name": "Michael Gallup",
+        "team": "Dal",
+        "position": "WR",
+        "avg_proj": 6.461111111111111,
+        "avg_total": 4.877777777777777
+    },
+    {
+        "name": "Boston Scott",
+        "team": "Phi",
+        "position": "RB",
+        "avg_proj": 1.438888888888889,
+        "avg_total": 0.8777777777777778
+    },
+    {
+        "name": "Christian Kirk",
+        "team": "Jax",
+        "position": "WR",
+        "avg_proj": 8.5,
+        "avg_total": 8.347777777777779
+    },
+    {
+        "name": "Xavier Hutchinson",
+        "team": "Hou",
+        "position": "WR",
+        "avg_proj": 1.8777777777777775,
+        "avg_total": 1.2166666666666668
+    },
+    {
+        "name": "Colby Parkinson",
+        "team": "Sea",
+        "position": "TE",
+        "avg_proj": 2.999999999999999,
+        "avg_total": 3.427777777777778
+    },
+    {
+        "name": "Evan Hull",
+        "team": "Ind",
+        "position": "RB",
+        "avg_proj": 0.5,
+        "avg_total": 0.09444444444444444
+    },
+    {
+        "name": "Erik Ezukanma",
+        "team": "Mia",
+        "position": "WR",
+        "avg_proj": 0.25555555555555554,
+        "avg_total": 0.12222222222222223
+    },
+    {
+        "name": "Zamir White",
+        "team": "LV",
+        "position": "RB",
+        "avg_proj": 4.405555555555555,
+        "avg_total": 4.105555555555556
+    },
+    {
+        "name": "Jerome Ford",
+        "team": "Cle",
+        "position": "RB",
+        "avg_proj": 10.155555555555557,
+        "avg_total": 11.733333333333333
+    },
+    {
+        "name": "Matt Breida",
+        "team": "NYG",
+        "position": "RB",
+        "avg_proj": 4.3277777777777775,
+        "avg_total": 2.605555555555556
+    },
+    {
+        "name": "Justyn Ross",
+        "team": "KC",
+        "position": "WR",
+        "avg_proj": 1.188888888888889,
+        "avg_total": 0.6277777777777778
+    },
+    {
+        "name": "Richie James",
+        "team": "KC",
+        "position": "WR",
+        "avg_proj": 1.538888888888889,
+        "avg_total": 1.0777777777777777
+    },
+    {
+        "name": "Devin Singletary",
+        "team": "Hou",
+        "position": "RB",
+        "avg_proj": 9.077777777777776,
+        "avg_total": 9.296666666666667
+    },
+    {
+        "name": "Alec Pierce",
+        "team": "Ind",
+        "position": "WR",
+        "avg_proj": 5.616666666666666,
+        "avg_total": 5.300000000000001
+    },
+    {
+        "name": "Derius Davis",
+        "team": "LAC",
+        "position": "WR",
+        "avg_proj": 2.716666666666667,
+        "avg_total": 1.9833333333333334
+    },
+    {
+        "name": "DeAndre Carter",
+        "team": "LV",
+        "position": "WR",
+        "avg_proj": 0.9500000000000003,
+        "avg_total": 0.5388888888888889
+    },
+    {
+        "name": "Isaiah Hodgins",
+        "team": "NYG",
+        "position": "WR",
+        "avg_proj": 4.005555555555556,
+        "avg_total": 3.333333333333334
+    },
+    {
+        "name": "Joshua Palmer",
+        "team": "LAC",
+        "position": "WR",
+        "avg_proj": 4.961111111111111,
+        "avg_total": 5.927777777777778
+    },
+    {
+        "name": "Isaiah Likely",
+        "team": "Bal",
+        "position": "TE",
+        "avg_proj": 4.5055555555555555,
+        "avg_total": 5.616666666666666
+    },
+    {
+        "name": "D'Andre Swift",
+        "team": "Phi",
+        "position": "RB",
+        "avg_proj": 12.56111111111111,
+        "avg_total": 11.072222222222221
+    },
+    {
+        "name": "Michael Burton",
+        "team": "Den",
+        "position": "RB",
+        "avg_proj": 0.5111111111111111,
+        "avg_total": 0.3722222222222222
+    },
+    {
+        "name": "Tyler Conklin",
+        "team": "NYJ",
+        "position": "TE",
+        "avg_proj": 6.9222222222222225,
+        "avg_total": 6.838888888888888
+    },
+    {
+        "name": "Parris Campbell",
+        "team": "NYG",
+        "position": "WR",
+        "avg_proj": 2.45,
+        "avg_total": 1.688888888888889
+    },
+    {
+        "name": "Giovanni Ricci",
+        "team": "Car",
+        "position": "TE",
+        "avg_proj": 0.10555555555555557,
+        "avg_total": 0.06666666666666667
+    },
+    {
+        "name": "Zach Charbonnet",
+        "team": "Sea",
+        "position": "RB",
+        "avg_proj": 6.599999999999999,
+        "avg_total": 5.894444444444443
+    },
+    {
+        "name": "Salvon Ahmed",
+        "team": "Mia",
+        "position": "RB",
+        "avg_proj": 1.9473684210526312,
+        "avg_total": 2.2578947368421054
+    },
+    {
+        "name": "Daniel Bellinger",
+        "team": "NYG",
+        "position": "TE",
+        "avg_proj": 2.827777777777778,
+        "avg_total": 2.8055555555555554
+    },
+    {
+        "name": "Elijah Mitchell",
+        "team": "SF",
+        "position": "RB",
+        "avg_proj": 2.8055555555555554,
+        "avg_total": 2.638888888888889
+    },
+    {
+        "name": "Kadarius Toney",
+        "team": "KC",
+        "position": "WR",
+        "avg_proj": 4.716666666666665,
+        "avg_total": 2.9444444444444446
+    },
+    {
+        "name": "Joshua Dobbs",
+        "team": "Ari",
+        "position": "QB",
+        "avg_proj": 9.81111111111111,
+        "avg_total": 11.147777777777778
+    },
+    {
+        "name": "Antonio Gibson",
+        "team": "Wsh",
+        "position": "RB",
+        "avg_proj": 6.911111111111112,
+        "avg_total": 7.0777777777777775
+    },
+    {
+        "name": "Deuce Vaughn",
+        "team": "Dal",
+        "position": "RB",
+        "avg_proj": 0.9833333333333333,
+        "avg_total": 0.8333333333333334
+    },
+    {
+        "name": "Marvin Jones Jr.",
+        "team": "Det",
+        "position": "WR",
+        "avg_proj": 1.7277777777777779,
+        "avg_total": 0.3611111111111111
+    },
+    {
+        "name": "Chase Edmonds",
+        "team": "TB",
+        "position": "RB",
+        "avg_proj": 2.8055555555555554,
+        "avg_total": 2.2055555555555553
+    },
+    {
+        "name": "Trayveon Williams",
+        "team": "Cin",
+        "position": "RB",
+        "avg_proj": 2.066666666666667,
+        "avg_total": 0.8277777777777777
+    },
+    {
+        "name": "Chris Rodriguez Jr.",
+        "team": "Wsh",
+        "position": "RB",
+        "avg_proj": 1.7111111111111112,
+        "avg_total": 2.1055555555555556
+    },
+    {
+        "name": "Tony Jones Jr.",
+        "team": "Ari",
+        "position": "RB",
+        "avg_proj": 0.8999999999999999,
+        "avg_total": 1.788888888888889
+    },
+    {
+        "name": "Skyy Moore",
+        "team": "KC",
+        "position": "WR",
+        "avg_proj": 5.122222222222222,
+        "avg_total": 2.9833333333333325
+    },
+    {
+        "name": "Taysom Hill",
+        "team": "NO",
+        "position": "TE",
+        "avg_proj": 6.355555555555554,
+        "avg_total": 7.973333333333334
+    },
+    {
+        "name": "Jaleel McLaughlin",
+        "team": "Den",
+        "position": "RB",
+        "avg_proj": 5.222222222222223,
+        "avg_total": 5.888888888888889
+    },
+    {
+        "name": "Tyrod Taylor",
+        "team": "NYG",
+        "position": "QB",
+        "avg_proj": 3.9111111111111114,
+        "avg_total": 4.852222222222222
+    },
+    {
+        "name": "Travis Kelce",
+        "team": "KC",
+        "position": "TE",
+        "avg_proj": 14.033333333333335,
+        "avg_total": 12.18888888888889
+    },
+    {
+        "name": "Cooper Kupp",
+        "team": "LAR",
+        "position": "WR",
+        "avg_proj": 10.855555555555554,
+        "avg_total": 9.133333333333333
+    },
+    {
+        "name": "Mark Andrews",
+        "team": "Bal",
+        "position": "TE",
+        "avg_proj": 7.072222222222222,
+        "avg_total": 7.522222222222222
+    },
+    {
+        "name": "Alvin Kamara",
+        "team": "NO",
+        "position": "RB",
+        "avg_proj": 12.62777777777778,
+        "avg_total": 12.944444444444446
+    },
+    {
+        "name": "Jonathan Taylor",
+        "team": "Ind",
+        "position": "RB",
+        "avg_proj": 8.494444444444445,
+        "avg_total": 8.688888888888888
+    },
+    {
+        "name": "Tee Higgins",
+        "team": "Cin",
+        "position": "WR",
+        "avg_proj": 8.727777777777778,
+        "avg_total": 7.644444444444444
+    },
+    {
+        "name": "De'Von Achane",
+        "team": "Mia",
+        "position": "RB",
+        "avg_proj": 8.11111111111111,
+        "avg_total": 10.594444444444441
+    },
+    {
+        "name": "Christian Watson",
+        "team": "GB",
+        "position": "WR",
+        "avg_proj": 5.688888888888889,
+        "avg_total": 5.627777777777776
+    },
+    {
+        "name": "Dallas Goedert",
+        "team": "Phi",
+        "position": "TE",
+        "avg_proj": 7.944444444444445,
+        "avg_total": 7.572222222222221
+    },
+    {
+        "name": "Jerry Jeudy",
+        "team": "Den",
+        "position": "WR",
+        "avg_proj": 9.738888888888889,
+        "avg_total": 7.877777777777776
+    },
+    {
+        "name": "Drake London",
+        "team": "Atl",
+        "position": "WR",
+        "avg_proj": 9.544444444444444,
+        "avg_total": 9.687777777777777
+    },
+    {
+        "name": "Zack Moss",
+        "team": "Ind",
+        "position": "RB",
+        "avg_proj": 8.711111111111112,
+        "avg_total": 9.422222222222222
+    },
+    {
+        "name": "DJ Chark Jr.",
+        "team": "Car",
+        "position": "WR",
+        "avg_proj": 6.505555555555555,
+        "avg_total": 6.416666666666665
+    },
+    {
+        "name": "Jameson Williams",
+        "team": "Det",
+        "position": "WR",
+        "avg_proj": 3.933333333333334,
+        "avg_total": 4.461111111111111
+    },
+    {
+        "name": "Jeff Wilson Jr.",
+        "team": "Mia",
+        "position": "RB",
+        "avg_proj": 3.188888888888889,
+        "avg_total": 2.2944444444444447
+    },
+    {
+        "name": "Rashaad Penny",
+        "team": "Phi",
+        "position": "RB",
+        "avg_proj": 0.6999999999999998,
+        "avg_total": 0.2666666666666667
+    },
+    {
+        "name": "Chigoziem Okonkwo",
+        "team": "Ten",
+        "position": "TE",
+        "avg_proj": 7.416666666666668,
+        "avg_total": 6.3
+    },
+    {
+        "name": "Aaron Rodgers",
+        "team": "NYJ",
+        "position": "QB",
+        "avg_proj": 0.8777777777777778,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kyler Murray",
+        "team": "Ari",
+        "position": "QB",
+        "avg_proj": 7.605555555555556,
+        "avg_total": 8.131111111111112
+    },
+    {
+        "name": "Jonnu Smith",
+        "team": "Atl",
+        "position": "TE",
+        "avg_proj": 6.15,
+        "avg_total": 6.9
+    },
+    {
+        "name": "Hunter Renfrow",
+        "team": "LV",
+        "position": "WR",
+        "avg_proj": 4.038888888888889,
+        "avg_total": 2.694444444444444
+    },
+    {
+        "name": "Chase Claypool",
+        "team": "Mia",
+        "position": "WR",
+        "avg_proj": 1.4277777777777778,
+        "avg_total": 1.2055555555555557
+    },
+    {
+        "name": "Kendre Miller",
+        "team": "NO",
+        "position": "RB",
+        "avg_proj": 2.1555555555555554,
+        "avg_total": 2.4055555555555554
+    },
+    {
+        "name": "Wan'Dale Robinson",
+        "team": "NYG",
+        "position": "WR",
+        "avg_proj": 6.522222222222222,
+        "avg_total": 7.3999999999999995
+    },
+    {
+        "name": "DeVante Parker",
+        "team": "NE",
+        "position": "WR",
+        "avg_proj": 5.838888888888889,
+        "avg_total": 4.022222222222222
+    },
+    {
+        "name": "Keaton Mitchell",
+        "team": "Bal",
+        "position": "RB",
+        "avg_proj": 1.9777777777777779,
+        "avg_total": 3.8833333333333337
+    },
+    {
+        "name": "Craig Reynolds",
+        "team": "Det",
+        "position": "RB",
+        "avg_proj": 2.2222222222222223,
+        "avg_total": 1.6444444444444446
+    },
+    {
+        "name": "Cordarrelle Patterson",
+        "team": "Atl",
+        "position": "RB",
+        "avg_proj": 2.127777777777778,
+        "avg_total": 2.05
+    },
+    {
+        "name": "Ronnie Rivers",
+        "team": "LAR",
+        "position": "RB",
+        "avg_proj": 2.0500000000000003,
+        "avg_total": 1.1166666666666667
+    },
+    {
+        "name": "Jalin Hyatt",
+        "team": "NYG",
+        "position": "WR",
+        "avg_proj": 5.2555555555555555,
+        "avg_total": 3.3499999999999996
+    },
+    {
+        "name": "Noah Fant",
+        "team": "Sea",
+        "position": "TE",
+        "avg_proj": 4.694444444444444,
+        "avg_total": 4.077777777777778
+    },
+    {
+        "name": "Ameer Abdullah",
+        "team": "LV",
+        "position": "RB",
+        "avg_proj": 3.427777777777778,
+        "avg_total": 2.2777777777777777
+    },
+    {
+        "name": "Jelani Woods",
+        "team": "Ind",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Michael Mayer",
+        "team": "LV",
+        "position": "TE",
+        "avg_proj": 3.8777777777777778,
+        "avg_total": 3.966666666666667
+    },
+    {
+        "name": "Mecole Hardman Jr.",
+        "team": "NYJ",
+        "position": "WR",
+        "avg_proj": 1.9555555555555553,
+        "avg_total": 1.4277777777777778
+    },
+    {
+        "name": "John Metchie III",
+        "team": "Hou",
+        "position": "WR",
+        "avg_proj": 3.0888888888888895,
+        "avg_total": 1.788888888888889
+    },
+    {
+        "name": "Tyquan Thornton",
+        "team": "NE",
+        "position": "WR",
+        "avg_proj": 2.861111111111111,
+        "avg_total": 1.5111111111111113
+    },
+    {
+        "name": "Pierre Strong Jr.",
+        "team": "Cle",
+        "position": "RB",
+        "avg_proj": 1.8111111111111111,
+        "avg_total": 2.377777777777778
+    },
+    {
+        "name": "Elijah Dotson",
+        "team": "LAC",
+        "position": "RB",
+        "avg_proj": 1.0388888888888888,
+        "avg_total": 0.21666666666666667
+    },
+    {
+        "name": "Chase Brown",
+        "team": "Cin",
+        "position": "RB",
+        "avg_proj": 2.066666666666667,
+        "avg_total": 2.972222222222222
+    },
+    {
+        "name": "Darnell Washington",
+        "team": "Pit",
+        "position": "TE",
+        "avg_proj": 1.7052631578947368,
+        "avg_total": 0.6894736842105263
+    },
+    {
+        "name": "Randall Cobb",
+        "team": "NYJ",
+        "position": "WR",
+        "avg_proj": 2.3473684210526313,
+        "avg_total": 0.8894736842105262
+    },
+    {
+        "name": "Tom Brady",
+        "team": "TB",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Nelson Agholor",
+        "team": "Bal",
+        "position": "WR",
+        "avg_proj": 4.044444444444444,
+        "avg_total": 5.394444444444445
+    },
+    {
+        "name": "Jameis Winston",
+        "team": "NO",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.6644444444444446
+    },
+    {
+        "name": "Gardner Minshew",
+        "team": "Ind",
+        "position": "QB",
+        "avg_proj": 9.838888888888887,
+        "avg_total": 10.899999999999999
+    },
+    {
+        "name": "Aidan O'Connell",
+        "team": "LV",
+        "position": "QB",
+        "avg_proj": 6.578947368421052,
+        "avg_total": 6.622105263157895
+    },
+    {
+        "name": "Jordan Mason",
+        "team": "SF",
+        "position": "RB",
+        "avg_proj": 2.6055555555555556,
+        "avg_total": 2.483333333333333
+    },
+    {
+        "name": "Raheem Blackshear",
+        "team": "Car",
+        "position": "RB",
+        "avg_proj": 1.0210526315789474,
+        "avg_total": 0.9
+    },
+    {
+        "name": "Mitch Trubisky",
+        "team": "Pit",
+        "position": "QB",
+        "avg_proj": 1.3842105263157893,
+        "avg_total": 2.562105263157895
+    },
+    {
+        "name": "Jauan Jennings",
+        "team": "SF",
+        "position": "WR",
+        "avg_proj": 3.444444444444444,
+        "avg_total": 2.861111111111111
+    },
+    {
+        "name": "Emari Demercado",
+        "team": "Ari",
+        "position": "RB",
+        "avg_proj": 3.144444444444444,
+        "avg_total": 4.072222222222223
+    },
+    {
+        "name": "Ronald Jones",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Isaiah Spiller",
+        "team": "LAC",
+        "position": "RB",
+        "avg_proj": 1.4277777777777778,
+        "avg_total": 1.0555555555555556
+    },
+    {
+        "name": "Trey Lance",
+        "team": "Dal",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Trenton Irwin",
+        "team": "Cin",
+        "position": "WR",
+        "avg_proj": 3.0277777777777777,
+        "avg_total": 3.477777777777778
+    },
+    {
+        "name": "Ronnie Bell",
+        "team": "SF",
+        "position": "WR",
+        "avg_proj": 1.7421052631578948,
+        "avg_total": 1.6210526315789473
+    },
+    {
+        "name": "Luke Schoonmaker",
+        "team": "Dal",
+        "position": "TE",
+        "avg_proj": 1.572222222222222,
+        "avg_total": 1.472222222222222
+    },
+    {
+        "name": "Andy Dalton",
+        "team": "Car",
+        "position": "QB",
+        "avg_proj": 0.7055555555555555,
+        "avg_total": 1.3133333333333335
+    },
+    {
+        "name": "Jimmy Graham",
+        "team": "NO",
+        "position": "TE",
+        "avg_proj": 1.2777777777777777,
+        "avg_total": 1.8833333333333333
+    },
+    {
+        "name": "Will Levis",
+        "team": "Ten",
+        "position": "QB",
+        "avg_proj": 7.077777777777778,
+        "avg_total": 5.667777777777777
+    },
+    {
+        "name": "Dontayvion Wicks",
+        "team": "GB",
+        "position": "WR",
+        "avg_proj": 5.022222222222222,
+        "avg_total": 6.653333333333334
+    },
+    {
+        "name": "Sterling Shepard",
+        "team": "NYG",
+        "position": "WR",
+        "avg_proj": 1.3111111111111111,
+        "avg_total": 1.1277777777777778
+    },
+    {
+        "name": "Cedric Tillman",
+        "team": "Cle",
+        "position": "WR",
+        "avg_proj": 3.3611111111111116,
+        "avg_total": 2.4555555555555553
+    },
+    {
+        "name": "Kyle Juszczyk",
+        "team": "SF",
+        "position": "RB",
+        "avg_proj": 1.6833333333333336,
+        "avg_total": 2.138888888888889
+    },
+    {
+        "name": "Emanuel Wilson",
+        "team": "GB",
+        "position": "RB",
+        "avg_proj": 0.5111111111111112,
+        "avg_total": 0.8222222222222222
+    },
+    {
+        "name": "Taylor Heinicke",
+        "team": "Atl",
+        "position": "QB",
+        "avg_proj": 3.0388888888888888,
+        "avg_total": 3.6666666666666665
+    },
+    {
+        "name": "Dorian Thompson-Robinson",
+        "team": "Cle",
+        "position": "QB",
+        "avg_proj": 2.0555555555555554,
+        "avg_total": 1.2277777777777776
+    },
+    {
+        "name": "Kyle Trask",
+        "team": "TB",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": -0.005555555555555556
+    },
+    {
+        "name": "Ke'Shawn Vaughn",
+        "team": "TB",
+        "position": "RB",
+        "avg_proj": 0.9777777777777776,
+        "avg_total": 0.3555555555555555
+    },
+    {
+        "name": "Zach Evans",
+        "team": "LAR",
+        "position": "RB",
+        "avg_proj": 0.6833333333333333,
+        "avg_total": 0.10555555555555557
+    },
+    {
+        "name": "Devin Duvernay",
+        "team": "Bal",
+        "position": "WR",
+        "avg_proj": 0.8999999999999998,
+        "avg_total": 0.40555555555555556
+    },
+    {
+        "name": "Kene Nwangwu",
+        "team": "Min",
+        "position": "RB",
+        "avg_proj": 0.27222222222222225,
+        "avg_total": 0.07222222222222223
+    },
+    {
+        "name": "Dare Ogunbowale",
+        "team": "Hou",
+        "position": "RB",
+        "avg_proj": 0.8944444444444444,
+        "avg_total": 0.5722222222222222
+    },
+    {
+        "name": "Marcus Mariota",
+        "team": "Phi",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.6533333333333333
+    },
+    {
+        "name": "Khalil Shakir",
+        "team": "Buf",
+        "position": "WR",
+        "avg_proj": 3.8277777777777775,
+        "avg_total": 6.283333333333335
+    },
+    {
+        "name": "Hendon Hooker",
+        "team": "Det",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Mike White",
+        "team": "Mia",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.11444444444444442
+    },
+    {
+        "name": "Stetson Bennett",
+        "team": "LAR",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Olamide Zaccheaus",
+        "team": "Phi",
+        "position": "WR",
+        "avg_proj": 1.4944444444444445,
+        "avg_total": 2.1333333333333333
+    },
+    {
+        "name": "Jalen Tolbert",
+        "team": "Dal",
+        "position": "WR",
+        "avg_proj": 3.2888888888888888,
+        "avg_total": 3.2666666666666666
+    },
+    {
+        "name": "Myles Gaskin",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.11666666666666667,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jacoby Brissett",
+        "team": "Wsh",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 1.27
+    },
+    {
+        "name": "Kayshon Boutte",
+        "team": "NE",
+        "position": "WR",
+        "avg_proj": 0.9555555555555555,
+        "avg_total": 0.21666666666666667
+    },
+    {
+        "name": "Eric Gray",
+        "team": "NYG",
+        "position": "RB",
+        "avg_proj": 0.6166666666666667,
+        "avg_total": 0.7222222222222222
+    },
+    {
+        "name": "Russell Gage",
+        "team": "TB",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jake Bobo",
+        "team": "Sea",
+        "position": "WR",
+        "avg_proj": 2.061111111111111,
+        "avg_total": 3.1611111111111105
+    },
+    {
+        "name": "Tucker Kraft",
+        "team": "GB",
+        "position": "TE",
+        "avg_proj": 3.1888888888888887,
+        "avg_total": 4.361111111111111
+    },
+    {
+        "name": "Israel Abanikanda",
+        "team": "NYJ",
+        "position": "RB",
+        "avg_proj": 0.8,
+        "avg_total": 0.9055555555555556
+    },
+    {
+        "name": "Trey Sermon",
+        "team": "Ind",
+        "position": "RB",
+        "avg_proj": 1.5333333333333334,
+        "avg_total": 1.1277777777777778
+    },
+    {
+        "name": "C.J. Uzomah",
+        "team": "NYJ",
+        "position": "TE",
+        "avg_proj": 1.2555555555555555,
+        "avg_total": 1.1
+    },
+    {
+        "name": "Ben Roethlisberger",
+        "team": "Pit",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Corey Davis",
+        "team": "NYJ",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Trent Sherfield",
+        "team": "Buf",
+        "position": "WR",
+        "avg_proj": 2.138888888888889,
+        "avg_total": 1.4222222222222223
+    },
+    {
+        "name": "Julius Chestnut",
+        "team": "Ten",
+        "position": "RB",
+        "avg_proj": 0.12222222222222223,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Nyheim Hines",
+        "team": "Buf",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Foster Moreau",
+        "team": "NO",
+        "position": "TE",
+        "avg_proj": 2.227777777777778,
+        "avg_total": 2.572222222222221
+    },
+    {
+        "name": "Tyler Huntley",
+        "team": "Bal",
+        "position": "QB",
+        "avg_proj": 0.7555555555555555,
+        "avg_total": 1.4233333333333333
+    },
+    {
+        "name": "Ray-Ray McCloud III",
+        "team": "SF",
+        "position": "WR",
+        "avg_proj": 1.3500000000000003,
+        "avg_total": 1.5833333333333333
+    },
+    {
+        "name": "Cedrick Wilson Jr.",
+        "team": "Mia",
+        "position": "WR",
+        "avg_proj": 3.533333333333333,
+        "avg_total": 3.866666666666667
+    },
+    {
+        "name": "Bailey Zappe",
+        "team": "NE",
+        "position": "QB",
+        "avg_proj": 4.144444444444444,
+        "avg_total": 3.843333333333333
+    },
+    {
+        "name": "Robert Tonyan",
+        "team": "Chi",
+        "position": "TE",
+        "avg_proj": 1.4500000000000002,
+        "avg_total": 1.2333333333333334
+    },
+    {
+        "name": "Equanimeous St. Brown",
+        "team": "Chi",
+        "position": "WR",
+        "avg_proj": 1.0722222222222222,
+        "avg_total": 0.6222222222222222
+    },
+    {
+        "name": "Hassan Haskins",
+        "team": "Ten",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Charlie Jones",
+        "team": "Cin",
+        "position": "WR",
+        "avg_proj": 0.39999999999999997,
+        "avg_total": 1.15
+    },
+    {
+        "name": "Tim Patrick",
+        "team": "Den",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Brian Hoyer",
+        "team": "LV",
+        "position": "QB",
+        "avg_proj": 0.8235294117647058,
+        "avg_total": 0.2905882352941176
+    },
+    {
+        "name": "Isaiah McKenzie",
+        "team": "Ind",
+        "position": "WR",
+        "avg_proj": 1.2611111111111113,
+        "avg_total": 0.922222222222222
+    },
+    {
+        "name": "Malik Willis",
+        "team": "Ten",
+        "position": "QB",
+        "avg_proj": 0.07058823529411765,
+        "avg_total": 0.18
+    },
+    {
+        "name": "JaMycal Hasty",
+        "team": "Jax",
+        "position": "RB",
+        "avg_proj": 0.14705882352941177,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kenny McIntosh",
+        "team": "Sea",
+        "position": "RB",
+        "avg_proj": 0.09444444444444444,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Teddy Bridgewater",
+        "team": "Det",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": -0.011111111111111112
+    },
+    {
+        "name": "Kyle Allen",
+        "team": "Buf",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": -0.07647058823529411
+    },
+    {
+        "name": "Ben Skowronek",
+        "team": "LAR",
+        "position": "WR",
+        "avg_proj": 1.852941176470588,
+        "avg_total": 1.2647058823529411
+    },
+    {
+        "name": "Clayton Tune",
+        "team": "Ari",
+        "position": "QB",
+        "avg_proj": 0.6647058823529413,
+        "avg_total": 0.43999999999999995
+    },
+    {
+        "name": "Drew Lock",
+        "team": "Sea",
+        "position": "QB",
+        "avg_proj": 0.7944444444444445,
+        "avg_total": 1.6177777777777775
+    },
+    {
+        "name": "Cooper Rush",
+        "team": "Dal",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.1811111111111111
+    },
+    {
+        "name": "Sean Clifford",
+        "team": "GB",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.07529411764705883
+    },
+    {
+        "name": "Andrei Iosivas",
+        "team": "Cin",
+        "position": "WR",
+        "avg_proj": 1.3333333333333333,
+        "avg_total": 2.8111111111111113
+    },
+    {
+        "name": "Mo Alie-Cox",
+        "team": "Ind",
+        "position": "TE",
+        "avg_proj": 2.4555555555555553,
+        "avg_total": 2.7277777777777774
+    },
+    {
+        "name": "Tyrion Davis-Price",
+        "team": "SF",
+        "position": "RB",
+        "avg_proj": 0.05555555555555555,
+        "avg_total": 0.11666666666666667
+    },
+    {
+        "name": "Albert Okwuegbunam",
+        "team": "Phi",
+        "position": "TE",
+        "avg_proj": 0.25882352941176473,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Peyton Hendershot",
+        "team": "Dal",
+        "position": "TE",
+        "avg_proj": 0.8722222222222222,
+        "avg_total": 0.43333333333333335
+    },
+    {
+        "name": "Kyle Philips",
+        "team": "Ten",
+        "position": "WR",
+        "avg_proj": 1.7166666666666666,
+        "avg_total": 1.7277777777777776
+    },
+    {
+        "name": "Chris Moore",
+        "team": "Ten",
+        "position": "WR",
+        "avg_proj": 3.611111111111111,
+        "avg_total": 3.794444444444445
+    },
+    {
+        "name": "Jack Stoll",
+        "team": "Phi",
+        "position": "TE",
+        "avg_proj": 0.9277777777777777,
+        "avg_total": 0.4888888888888888
+    },
+    {
+        "name": "Brandon Bolden",
+        "team": "LV",
+        "position": "RB",
+        "avg_proj": 0.22777777777777775,
+        "avg_total": 0.6166666666666667
+    },
+    {
+        "name": "Dyami Brown",
+        "team": "Wsh",
+        "position": "WR",
+        "avg_proj": 2.3222222222222224,
+        "avg_total": 1.9422222222222223
+    },
+    {
+        "name": "Jarrett Stidham",
+        "team": "Den",
+        "position": "QB",
+        "avg_proj": 1.5611111111111111,
+        "avg_total": 1.48
+    },
+    {
+        "name": "Tyson Bagent",
+        "team": "Chi",
+        "position": "QB",
+        "avg_proj": 2.9166666666666665,
+        "avg_total": 2.9588888888888887
+    },
+    {
+        "name": "Marquise Goodwin",
+        "team": "Cle",
+        "position": "WR",
+        "avg_proj": 1.5611111111111111,
+        "avg_total": 0.7777777777777778
+    },
+    {
+        "name": "David Bell",
+        "team": "Cle",
+        "position": "WR",
+        "avg_proj": 1.561111111111111,
+        "avg_total": 2.7055555555555557
+    },
+    {
+        "name": "Hunter Luepke",
+        "team": "Dal",
+        "position": "RB",
+        "avg_proj": 0.5277777777777778,
+        "avg_total": 0.7055555555555556
+    },
+    {
+        "name": "A.T. Perry",
+        "team": "NO",
+        "position": "WR",
+        "avg_proj": 2.0166666666666666,
+        "avg_total": 3.3666666666666663
+    },
+    {
+        "name": "Greg Dortch",
+        "team": "Ari",
+        "position": "WR",
+        "avg_proj": 2.9722222222222223,
+        "avg_total": 3.5833333333333335
+    },
+    {
+        "name": "Brandon Powell",
+        "team": "Min",
+        "position": "WR",
+        "avg_proj": 3.427777777777778,
+        "avg_total": 3.7277777777777783
+    },
+    {
+        "name": "Travis Homer",
+        "team": "Chi",
+        "position": "RB",
+        "avg_proj": 0.4722222222222222,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Drew Sample",
+        "team": "Cin",
+        "position": "TE",
+        "avg_proj": 1.8777777777777775,
+        "avg_total": 2.7944444444444443
+    },
+    {
+        "name": "Brenton Strange",
+        "team": "Jax",
+        "position": "TE",
+        "avg_proj": 0.9333333333333331,
+        "avg_total": 0.8055555555555555
+    },
+    {
+        "name": "Blaine Gabbert",
+        "team": "KC",
+        "position": "QB",
+        "avg_proj": 0.7833333333333333,
+        "avg_total": 0.3277777777777778
+    },
+    {
+        "name": "Tre Tucker",
+        "team": "LV",
+        "position": "WR",
+        "avg_proj": 2.261111111111111,
+        "avg_total": 3.988888888888889
+    },
+    {
+        "name": "Velus Jones Jr.",
+        "team": "Chi",
+        "position": "WR",
+        "avg_proj": 0.8777777777777779,
+        "avg_total": 0.6166666666666667
+    },
+    {
+        "name": "Gunner Olszewski",
+        "team": "Pit",
+        "position": "WR",
+        "avg_proj": 0.0611111111111111,
+        "avg_total": 0.16666666666666666
+    },
+    {
+        "name": "Josiah Deguara",
+        "team": "GB",
+        "position": "TE",
+        "avg_proj": 0.9666666666666666,
+        "avg_total": 0.8055555555555556
+    },
+    {
+        "name": "Demarcus Robinson",
+        "team": "LAR",
+        "position": "WR",
+        "avg_proj": 2.4499999999999997,
+        "avg_total": 4.855555555555556
+    },
+    {
+        "name": "Justin Shorter",
+        "team": "Buf",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "John Bates",
+        "team": "Wsh",
+        "position": "TE",
+        "avg_proj": 2.833333333333333,
+        "avg_total": 1.8944444444444446
+    },
+    {
+        "name": "Pharaoh Brown",
+        "team": "NE",
+        "position": "TE",
+        "avg_proj": 1.4333333333333333,
+        "avg_total": 2.1
+    },
+    {
+        "name": "Tyler Kroft",
+        "team": "Mia",
+        "position": "TE",
+        "avg_proj": 0.26111111111111107,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jeremy Ruckert",
+        "team": "NYJ",
+        "position": "TE",
+        "avg_proj": 1.7444444444444445,
+        "avg_total": 1.7277777777777776
+    },
+    {
+        "name": "Cam Newton",
+        "team": "Car",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Davis Mills",
+        "team": "Hou",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.99
+    },
+    {
+        "name": "Jason Brownlee",
+        "team": "NYJ",
+        "position": "WR",
+        "avg_proj": 1.1111111111111112,
+        "avg_total": 0.9222222222222223
+    },
+    {
+        "name": "Antoine Green",
+        "team": "Det",
+        "position": "WR",
+        "avg_proj": 0.23888888888888893,
+        "avg_total": 0.06666666666666667
+    },
+    {
+        "name": "Malik Heath",
+        "team": "GB",
+        "position": "WR",
+        "avg_proj": 2.238888888888889,
+        "avg_total": 1.8611111111111112
+    },
+    {
+        "name": "Patrick Ricard",
+        "team": "Bal",
+        "position": "RB",
+        "avg_proj": 0.7388888888888892,
+        "avg_total": 0.9000000000000001
+    },
+    {
+        "name": "Ross Dwelley",
+        "team": "SF",
+        "position": "TE",
+        "avg_proj": 0.23888888888888887,
+        "avg_total": 0.12222222222222223
+    },
+    {
+        "name": "Reggie Gilliam",
+        "team": "Buf",
+        "position": "RB",
+        "avg_proj": 0.17777777777777778,
+        "avg_total": 0.07222222222222223
+    },
+    {
+        "name": "Britain Covey",
+        "team": "Phi",
+        "position": "WR",
+        "avg_proj": 0.14444444444444446,
+        "avg_total": 0.4555555555555555
+    },
+    {
+        "name": "Le'Veon Bell",
+        "team": "TB",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tre' McKitty",
+        "team": "LAC",
+        "position": "TE",
+        "avg_proj": 0.08333333333333333,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Chris Brooks",
+        "team": "Mia",
+        "position": "RB",
+        "avg_proj": 0.47777777777777775,
+        "avg_total": 0.5888888888888888
+    },
+    {
+        "name": "Nick Mullens",
+        "team": "Min",
+        "position": "QB",
+        "avg_proj": 2.577777777777778,
+        "avg_total": 3.7077777777777783
+    },
+    {
+        "name": "Easton Stick",
+        "team": "LAC",
+        "position": "QB",
+        "avg_proj": 3.25,
+        "avg_total": 3.7533333333333334
+    },
+    {
+        "name": "Tommy Tremble",
+        "team": "Car",
+        "position": "TE",
+        "avg_proj": 2.9444444444444446,
+        "avg_total": 3.355555555555556
+    },
+    {
+        "name": "Dee Eskridge",
+        "team": "Sea",
+        "position": "WR",
+        "avg_proj": 0.05,
+        "avg_total": 0.027777777777777776
+    },
+    {
+        "name": "Miles Boykin",
+        "team": "Pit",
+        "position": "WR",
+        "avg_proj": 0.23333333333333334,
+        "avg_total": 0.2611111111111111
+    },
+    {
+        "name": "Scott Miller",
+        "team": "Atl",
+        "position": "WR",
+        "avg_proj": 1.2555555555555555,
+        "avg_total": 2.172222222222222
+    },
+    {
+        "name": "Parker Washington",
+        "team": "Jax",
+        "position": "WR",
+        "avg_proj": 1.8888888888888888,
+        "avg_total": 2.177777777777778
+    },
+    {
+        "name": "Byron Pringle",
+        "team": "Wsh",
+        "position": "WR",
+        "avg_proj": 1.4111111111111114,
+        "avg_total": 1.561111111111111
+    },
+    {
+        "name": "James Mitchell",
+        "team": "Det",
+        "position": "TE",
+        "avg_proj": 0.21111111111111114,
+        "avg_total": 0.26666666666666666
+    },
+    {
+        "name": "Zach Pascal",
+        "team": "Ari",
+        "position": "WR",
+        "avg_proj": 1.8888888888888888,
+        "avg_total": 0.3277777777777778
+    },
+    {
+        "name": "Dareke Young",
+        "team": "Sea",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Mitchell Wilcox",
+        "team": "Cin",
+        "position": "TE",
+        "avg_proj": 1.0444444444444443,
+        "avg_total": 0.8111111111111111
+    },
+    {
+        "name": "Quintin Morris",
+        "team": "Buf",
+        "position": "TE",
+        "avg_proj": 0.20000000000000004,
+        "avg_total": 0.5888888888888889
+    },
+    {
+        "name": "Ian Thomas",
+        "team": "Car",
+        "position": "TE",
+        "avg_proj": 1.0111111111111108,
+        "avg_total": 0.5888888888888889
+    },
+    {
+        "name": "Ko Kieft",
+        "team": "TB",
+        "position": "TE",
+        "avg_proj": 0.711111111111111,
+        "avg_total": 0.4
+    },
+    {
+        "name": "C.J. Beathard",
+        "team": "Jax",
+        "position": "QB",
+        "avg_proj": 0.8277777777777778,
+        "avg_total": 1.1922222222222223
+    },
+    {
+        "name": "Danny Gray",
+        "team": "SF",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jalen Nailor",
+        "team": "Min",
+        "position": "WR",
+        "avg_proj": 0.3888888888888889,
+        "avg_total": 0.3277777777777778
+    },
+    {
+        "name": "Jason Cabinda",
+        "team": "Det",
+        "position": "RB",
+        "avg_proj": 0.09999999999999999,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jalen Brooks",
+        "team": "Dal",
+        "position": "WR",
+        "avg_proj": 0.08888888888888889,
+        "avg_total": 0.6888888888888889
+    },
+    {
+        "name": "Tre'Quan Smith",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jalen Guyton",
+        "team": "LAC",
+        "position": "WR",
+        "avg_proj": 2.8944444444444444,
+        "avg_total": 1.3833333333333333
+    },
+    {
+        "name": "Hunter Long",
+        "team": "LAR",
+        "position": "TE",
+        "avg_proj": 0.21666666666666667,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jalen Reagor",
+        "team": "NE",
+        "position": "WR",
+        "avg_proj": 3.1722222222222225,
+        "avg_total": 1.5833333333333333
+    },
+    {
+        "name": "Matthew Slater",
+        "team": "NE",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "KhaDarel Hodge",
+        "team": "Atl",
+        "position": "WR",
+        "avg_proj": 1.8111111111111111,
+        "avg_total": 2.0666666666666664
+    },
+    {
+        "name": "Brevin Jordan",
+        "team": "Hou",
+        "position": "TE",
+        "avg_proj": 1.6611111111111112,
+        "avg_total": 2.8277777777777775
+    },
+    {
+        "name": "Tanner McKee",
+        "team": "Phi",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jakob Johnson",
+        "team": "LV",
+        "position": "RB",
+        "avg_proj": 0.14444444444444446,
+        "avg_total": 0.12222222222222223
+    },
+    {
+        "name": "Johnny Mundt",
+        "team": "Min",
+        "position": "TE",
+        "avg_proj": 1.411111111111111,
+        "avg_total": 2.2333333333333334
+    },
+    {
+        "name": "Trent Taylor",
+        "team": "Chi",
+        "position": "WR",
+        "avg_proj": 0.6666666666666666,
+        "avg_total": -0.12222222222222223
+    },
+    {
+        "name": "Skylar Thompson",
+        "team": "Mia",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Julian Hill",
+        "team": "Mia",
+        "position": "TE",
+        "avg_proj": 0.6,
+        "avg_total": 0.4888888888888888
+    },
+    {
+        "name": "Charlie Kolar",
+        "team": "Bal",
+        "position": "TE",
+        "avg_proj": 0.8666666666666667,
+        "avg_total": 1.2055555555555555
+    },
+    {
+        "name": "Tim Jones",
+        "team": "Jax",
+        "position": "WR",
+        "avg_proj": 1.9833333333333334,
+        "avg_total": 1.0722222222222222
+    },
+    {
+        "name": "Ryan Fitzpatrick",
+        "team": "Wsh",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Chris Manhertz",
+        "team": "Den",
+        "position": "TE",
+        "avg_proj": 0.8833333333333334,
+        "avg_total": 0.2
+    },
+    {
+        "name": "Keith Smith",
+        "team": "Atl",
+        "position": "RB",
+        "avg_proj": 0.17777777777777776,
+        "avg_total": 0.35000000000000003
+    },
+    {
+        "name": "Grant Calcaterra",
+        "team": "Phi",
+        "position": "TE",
+        "avg_proj": 0.2222222222222222,
+        "avg_total": 0.4388888888888889
+    },
+    {
+        "name": "Jamison Crowder",
+        "team": "Wsh",
+        "position": "WR",
+        "avg_proj": 0.7944444444444444,
+        "avg_total": 1.9944444444444445
+    },
+    {
+        "name": "Andrew Beck",
+        "team": "Hou",
+        "position": "RB",
+        "avg_proj": 0.8833333333333333,
+        "avg_total": 2.155555555555556
+    },
+    {
+        "name": "Mason Rudolph",
+        "team": "Pit",
+        "position": "QB",
+        "avg_proj": 2.138888888888889,
+        "avg_total": 2.197777777777778
+    },
+    {
+        "name": "Kristian Wilkerson",
+        "team": "LV",
+        "position": "WR",
+        "avg_proj": 0.5222222222222223,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Charlie Woerner",
+        "team": "SF",
+        "position": "TE",
+        "avg_proj": 0.25,
+        "avg_total": 0.34444444444444444
+    },
+    {
+        "name": "Nathan Peterman",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": -0.022222222222222223
+    },
+    {
+        "name": "Marcedes Lewis",
+        "team": "Chi",
+        "position": "TE",
+        "avg_proj": 0.3333333333333333,
+        "avg_total": 0.7166666666666667
+    },
+    {
+        "name": "Luke Farrell",
+        "team": "Jax",
+        "position": "TE",
+        "avg_proj": 1.0833333333333335,
+        "avg_total": 1.5833333333333333
+    },
+    {
+        "name": "Cameron Latu",
+        "team": "SF",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ihmir Smith-Marsette",
+        "team": "Car",
+        "position": "WR",
+        "avg_proj": 1.3333333333333333,
+        "avg_total": 1.8055555555555556
+    },
+    {
+        "name": "Justin Jackson",
+        "team": "Det",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Josh Whyle",
+        "team": "Ten",
+        "position": "TE",
+        "avg_proj": 1.1333333333333333,
+        "avg_total": 1.3555555555555556
+    },
+    {
+        "name": "Jaren Hall",
+        "team": "Min",
+        "position": "QB",
+        "avg_proj": 1.5388888888888888,
+        "avg_total": 0.11777777777777779
+    },
+    {
+        "name": "Trevon Wesco",
+        "team": "Ten",
+        "position": "TE",
+        "avg_proj": 0.8666666666666667,
+        "avg_total": 0.17222222222222222
+    },
+    {
+        "name": "Rakim Jarrett",
+        "team": "TB",
+        "position": "WR",
+        "avg_proj": 0.6833333333333333,
+        "avg_total": 0.5555555555555556
+    },
+    {
+        "name": "Keith Kirkwood",
+        "team": "NO",
+        "position": "WR",
+        "avg_proj": 0.9500000000000001,
+        "avg_total": 0.8166666666666668
+    },
+    {
+        "name": "Phillip Dorsett",
+        "team": "Den",
+        "position": "WR",
+        "avg_proj": 0.3777777777777778,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tylan Wallace",
+        "team": "Bal",
+        "position": "WR",
+        "avg_proj": 0.35555555555555557,
+        "avg_total": 0.44999999999999996
+    },
+    {
+        "name": "Cody Thompson",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "James White",
+        "team": "NE",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Armani Rogers",
+        "team": "Wsh",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Elijah Higgins",
+        "team": "Ari",
+        "position": "TE",
+        "avg_proj": 1.311111111111111,
+        "avg_total": 2.016666666666667
+    },
+    {
+        "name": "Eno Benjamin",
+        "team": "NO",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Adam Prentice",
+        "team": "NO",
+        "position": "RB",
+        "avg_proj": 0.23888888888888887,
+        "avg_total": 0.13333333333333333
+    },
+    {
+        "name": "Davis Allen",
+        "team": "LAR",
+        "position": "TE",
+        "avg_proj": 0.6666666666666666,
+        "avg_total": 1.4166666666666667
+    },
+    {
+        "name": "Khari Blasingame",
+        "team": "Chi",
+        "position": "RB",
+        "avg_proj": 0.5333333333333335,
+        "avg_total": 0.3222222222222222
+    },
+    {
+        "name": "Sony Michel",
+        "team": "LAR",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Will Mallory",
+        "team": "Ind",
+        "position": "TE",
+        "avg_proj": 1.8277777777777777,
+        "avg_total": 2.15
+    },
+    {
+        "name": "Nick Bellore",
+        "team": "Sea",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Dax Milne",
+        "team": "Wsh",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Josh Ali",
+        "team": "Atl",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Brandon Allen",
+        "team": "SF",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "John Ross",
+        "team": "KC",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "John FitzPatrick",
+        "team": "Atl",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.12222222222222223
+    },
+    {
+        "name": "Jody Fortson",
+        "team": "KC",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ty Johnson",
+        "team": "Buf",
+        "position": "RB",
+        "avg_proj": 1.1111111111111112,
+        "avg_total": 1.7999999999999998
+    },
+    {
+        "name": "Chad Henne",
+        "team": "KC",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Stanley Berryhill",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "MyCole Pruitt",
+        "team": "Atl",
+        "position": "TE",
+        "avg_proj": 0.8555555555555555,
+        "avg_total": 1.4444444444444442
+    },
+    {
+        "name": "Jake Haener",
+        "team": "NO",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Nick Bawden",
+        "team": "NYJ",
+        "position": "RB",
+        "avg_proj": 0.11666666666666667,
+        "avg_total": 0.638888888888889
+    },
+    {
+        "name": "Sam Ehlinger",
+        "team": "Ind",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Marlon Mack",
+        "team": "Ari",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Josh Johnson",
+        "team": "Bal",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Colton Dowell",
+        "team": "Ten",
+        "position": "WR",
+        "avg_proj": 0.35555555555555557,
+        "avg_total": 0.07222222222222223
+    },
+    {
+        "name": "Tre Nixon",
+        "team": "NE",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Zander Horvath",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Nate Adkins",
+        "team": "Den",
+        "position": "TE",
+        "avg_proj": 0.6888888888888888,
+        "avg_total": 0.34444444444444444
+    },
+    {
+        "name": "Elijah Cooks",
+        "team": "Jax",
+        "position": "WR",
+        "avg_proj": 0.3444444444444444,
+        "avg_total": 0.37777777777777777
+    },
+    {
+        "name": "Mitchell Tinsley",
+        "team": "Wsh",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Case Keenum",
+        "team": "Hou",
+        "position": "QB",
+        "avg_proj": 1.411111111111111,
+        "avg_total": 0.5411111111111111
+    },
+    {
+        "name": "Anthony Schwartz",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ashton Dulin",
+        "team": "Ind",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Brayden Willis",
+        "team": "SF",
+        "position": "TE",
+        "avg_proj": 0.18333333333333332,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Geoff Swaim",
+        "team": "Ari",
+        "position": "TE",
+        "avg_proj": 1.0611111111111111,
+        "avg_total": 1.077777777777778
+    },
+    {
+        "name": "Penny Hart",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kearis Jackson",
+        "team": "Ten",
+        "position": "WR",
+        "avg_proj": 0.03333333333333333,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Payne Durham",
+        "team": "TB",
+        "position": "TE",
+        "avg_proj": 0.811111111111111,
+        "avg_total": 0.6000000000000001
+    },
+    {
+        "name": "Jakeem Grant Sr.",
+        "team": "Cle",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Godwin Igwebuike",
+        "team": "Pit",
+        "position": "RB",
+        "avg_proj": 0.1055555555555556,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Brett Rypien",
+        "team": "LAR",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.09333333333333332
+    },
+    {
+        "name": "Kirk Merritt",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Stone Smartt",
+        "team": "LAC",
+        "position": "TE",
+        "avg_proj": 1.661111111111111,
+        "avg_total": 1.8055555555555556
+    },
+    {
+        "name": "Jesper Horsted",
+        "team": "LV",
+        "position": "TE",
+        "avg_proj": 0.03333333333333333,
+        "avg_total": 0.07777777777777778
+    },
+    {
+        "name": "Joe Reed",
+        "team": "Chi",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Avery Williams",
+        "team": "Atl",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jalen Virgil",
+        "team": "Den",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Blake Jarwin",
+        "team": "Dal",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Nick Muse",
+        "team": "Min",
+        "position": "TE",
+        "avg_proj": 0.061111111111111116,
+        "avg_total": 0.17777777777777778
+    },
+    {
+        "name": "Jared Bernhardt",
+        "team": "Atl",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Nate Sudfeld",
+        "team": "Det",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Matt Bushman",
+        "team": "KC",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Carlos Hyde",
+        "team": "Jax",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tyler Davis",
+        "team": "GB",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Logan Woodside",
+        "team": "Atl",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": -0.017777777777777778
+    },
+    {
+        "name": "Michael Woods II",
+        "team": "Cle",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Qadree Ollison",
+        "team": "Pit",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Sutton Smith",
+        "team": "LV",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "David Wells",
+        "team": "TB",
+        "position": "TE",
+        "avg_proj": 0.15000000000000002,
+        "avg_total": 0.05555555555555555
+    },
+    {
+        "name": "Devin Smith",
+        "team": "Car",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Irvin Charles",
+        "team": "NYJ",
+        "position": "WR",
+        "avg_proj": 0.23888888888888887,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ben Sims",
+        "team": "GB",
+        "position": "TE",
+        "avg_proj": 0.7111111111111109,
+        "avg_total": 0.6722222222222222
+    },
+    {
+        "name": "Shane Zylstra",
+        "team": "Det",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Taiwan Jones",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Austin Walter",
+        "team": "LV",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kenny Yeboah",
+        "team": "NYJ",
+        "position": "TE",
+        "avg_proj": 0.3055555555555556,
+        "avg_total": 0.26666666666666666
+    },
+    {
+        "name": "Feleipe Franks",
+        "team": "Atl",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Brittain Brown",
+        "team": "LV",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tom Kennedy",
+        "team": "Det",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Zach Davidson",
+        "team": "Buf",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Antonio Gandy-Golden",
+        "team": "Wsh",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Parker Hesse",
+        "team": "Atl",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tommy Sweeney",
+        "team": "NYG",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Troy Hairston",
+        "team": "Hou",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jack Doyle",
+        "team": "Ind",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Seth Williams",
+        "team": "Jax",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Cethan Carter",
+        "team": "Mia",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Stephen Sullivan",
+        "team": "Car",
+        "position": "TE",
+        "avg_proj": 1.5166666666666666,
+        "avg_total": 1.3611111111111112
+    },
+    {
+        "name": "Ben Ellefson",
+        "team": "Min",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Chris Hogan",
+        "team": "NO",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Juwann Winfree",
+        "team": "Ind",
+        "position": "WR",
+        "avg_proj": 0.061111111111111116,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Curtis Hodges",
+        "team": "Wsh",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kaden Smith",
+        "team": "Wsh",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Brandon Dillon",
+        "team": "Wsh",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Sammis Reyes",
+        "team": "Jax",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Chris Myarick",
+        "team": "NYG",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Diontae Spencer",
+        "team": "NYJ",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Malcolm Perry",
+        "team": "NE",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jake Browning",
+        "team": "Cin",
+        "position": "QB",
+        "avg_proj": 5.977777777777778,
+        "avg_total": 8.024444444444446
+    },
+    {
+        "name": "Jamal Agnew",
+        "team": "Jax",
+        "position": "WR",
+        "avg_proj": 2.4333333333333336,
+        "avg_total": 2.238888888888889
+    },
+    {
+        "name": "Sam Darnold",
+        "team": "SF",
+        "position": "QB",
+        "avg_proj": 0.7388888888888889,
+        "avg_total": 1.2988888888888888
+    },
+    {
+        "name": "Keaontay Ingram",
+        "team": "Ari",
+        "position": "RB",
+        "avg_proj": 2.7666666666666666,
+        "avg_total": 0.7777777777777777
+    },
+    {
+        "name": "D'Ernest Johnson",
+        "team": "Jax",
+        "position": "RB",
+        "avg_proj": 2.3888888888888884,
+        "avg_total": 1.9333333333333331
+    },
+    {
+        "name": "Kareem Hunt",
+        "team": "Cle",
+        "position": "RB",
+        "avg_proj": 5.861111111111112,
+        "avg_total": 6.583333333333332
+    },
+    {
+        "name": "Leonard Fournette",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.16666666666666666,
+        "avg_total": 0.2222222222222222
+    },
+    {
+        "name": "Melvin Gordon III",
+        "team": "Bal",
+        "position": "RB",
+        "avg_proj": 0.963157894736842,
+        "avg_total": 1.0368421052631578
+    },
+    {
+        "name": "Zonovan Knight",
+        "team": "Det",
+        "position": "RB",
+        "avg_proj": 0.41111111111111115,
+        "avg_total": 0.17222222222222222
+    },
+    {
+        "name": "Kenyan Drake",
+        "team": "Bal",
+        "position": "RB",
+        "avg_proj": 0.21666666666666667,
+        "avg_total": 0.17222222222222222
+    },
+    {
+        "name": "Malik Davis",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.2222222222222222,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Antonio Brown",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Rob Gronkowski",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Robbie Chosen",
+        "team": "Mia",
+        "position": "WR",
+        "avg_proj": 0.8611111111111112,
+        "avg_total": 1.2555555555555555
+    },
+    {
+        "name": "Kevin Harris",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 1.3833333333333333,
+        "avg_total": 1.1833333333333333
+    },
+    {
+        "name": "James Robinson",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.05555555555555555
+    },
+    {
+        "name": "Corey Clement",
+        "team": "Ari",
+        "position": "RB",
+        "avg_proj": 0.11764705882352941,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Adrian Peterson",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Darrynton Evans",
+        "team": "Chi",
+        "position": "RB",
+        "avg_proj": 1.1388888888888888,
+        "avg_total": 1.6666666666666667
+    },
+    {
+        "name": "Julio Jones",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 1.538888888888889,
+        "avg_total": 2.0222222222222217
+    },
+    {
+        "name": "Trevor Siemian",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 1.8444444444444446,
+        "avg_total": 1.4977777777777779
+    },
+    {
+        "name": "Jermar Jefferson",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "DeWayne McBride",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Malik Cunningham",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.16666666666666666,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Trace McSorley",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Colt McCoy",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Zack Kuntz",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Max Duggan",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Deneric Prince",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Matt Corral",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "John Kelly Jr.",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Binjimen Victor",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Carson Wentz",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.7333333333333333,
+        "avg_total": 1.4511111111111112
+    },
+    {
+        "name": "Mohamed Ibrahim",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Joseph Ngata",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Chase Cota",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Austin Watkins Jr.",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jarvis Landry",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Bryce Perkins",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Roger Carter Jr.",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Josh Gordon",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "D'vonte Price",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Derek Watt",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "David Moore",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.44999999999999996,
+        "avg_total": 1.1333333333333335
+    },
+    {
+        "name": "Tanner Hudson",
+        "team": "Cin",
+        "position": "TE",
+        "avg_proj": 3.0000000000000004,
+        "avg_total": 4.455555555555555
+    },
+    {
+        "name": "Joe Flacco",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 3.5888888888888886,
+        "avg_total": 5.602222222222222
+    },
+    {
+        "name": "Matt Barkley",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": -0.016666666666666666
+    },
+    {
+        "name": "A.J. Green",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Cole Beasley",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ben DiNucci",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Grant DuBose",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "J.J. Taylor",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Mark Ingram II",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Rex Burkhead",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Laquon Treadwell",
+        "team": "Bal",
+        "position": "WR",
+        "avg_proj": 0.34444444444444444,
+        "avg_total": 0.14444444444444446
+    },
+    {
+        "name": "Matt Ryan",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Anthony Brown",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Amari Rodgers",
+        "team": "Ind",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Mike Glennon",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Dan Arnold",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jonathan Williams",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": -0.011111111111111112
+    },
+    {
+        "name": "Devon Allen",
+        "team": "Phi",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Darrell Henderson Jr.",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 1.7277777777777779,
+        "avg_total": 1.7000000000000002
+    },
+    {
+        "name": "Caleb Huntley",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Snoop Conner",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Nick Foles",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kenny Golladay",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Marquez Callaway",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.07777777777777778,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Montrell Washington",
+        "team": "KC",
+        "position": "WR",
+        "avg_proj": 0.011111111111111112,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Adam Humphries",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Chase Allen",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "La'Mical Perine",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.8111111111111111,
+        "avg_total": 0.7722222222222223
+    },
+    {
+        "name": "Spencer Brown",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "KJ Hamler",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tim Boyle",
+        "team": "NYJ",
+        "position": "QB",
+        "avg_proj": 0.5833333333333334,
+        "avg_total": 0.3766666666666667
+    },
+    {
+        "name": "Carson Strong",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "PJ Walker",
+        "team": "Cle",
+        "position": "QB",
+        "avg_proj": 1.25,
+        "avg_total": 1.108888888888889
+    },
+    {
+        "name": "Denzel Mims",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Eric Saubert",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.6055555555555556,
+        "avg_total": 0.23333333333333334
+    },
+    {
+        "name": "T.Y. Hilton",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Devonta Freeman",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Paul Quessenberry",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Simi Fehoko",
+        "team": "LAC",
+        "position": "WR",
+        "avg_proj": 0.5277777777777778,
+        "avg_total": 0.4388888888888889
+    },
+    {
+        "name": "David Johnson",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tyler Badie",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Scotty Washington",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kurt Benkert",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Damien Williams",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.42777777777777776,
+        "avg_total": 0.4166666666666667
+    },
+    {
+        "name": "Maurice Alexander",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Wendell Smallwood",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Johnny Johnson III",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.3055555555555556,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Lew Nichols",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jared Cook",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Sammy Watkins",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Chris Conley",
+        "team": "SF",
+        "position": "WR",
+        "avg_proj": 0.3888888888888889,
+        "avg_total": 0.55
+    },
+    {
+        "name": "Dante Pettis",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Mataeo Durant",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Chris Carson",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Dwayne Washington",
+        "team": "Den",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "J.D. McKissic",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jalen Wydermyer",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "N'Keal Harry",
+        "team": "Min",
+        "position": "WR",
+        "avg_proj": 0.4222222222222222,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ian Book",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "DeSean Jackson",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Braylon Sanders",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Will Grier",
+        "team": "NE",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Josh Adams",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Royce Freeman",
+        "team": "LAR",
+        "position": "RB",
+        "avg_proj": 3.577777777777778,
+        "avg_total": 2.566666666666667
+    },
+    {
+        "name": "Kwamie Lassiter II",
+        "team": "Cin",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.06666666666666667
+    },
+    {
+        "name": "Andy Isabella",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.005555555555555556,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Shi Smith",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Dez Fitzpatrick",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "O.J. Howard",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Willie Snead IV",
+        "team": "SF",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.10555555555555556
+    },
+    {
+        "name": "Ethan Fernea",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.17222222222222222,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Shane Buechele",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kyle Rudolph",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Chris Oladokun",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ethan Wolf",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Josh Rosen",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jake Fromm",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Lucas Krull",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.6277777777777778,
+        "avg_total": 1.3055555555555556
+    },
+    {
+        "name": "Benny Snell Jr.",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Greg Ward",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "J.J. Arcega-Whiteside",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Danny Amendola",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Hakeem Butler",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Larry Rountree III",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Zach Gentry",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.1,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Quintez Cephus",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Darrel Williams",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Rashard Higgins",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jake Tonges",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kellen Mond",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Nakia Griffin-Stewart",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Daylen Baldwin",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Matt Sokol",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.061111111111111116,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Lynn Bowden Jr.",
+        "team": "NO",
+        "position": "WR",
+        "avg_proj": 1.5222222222222224,
+        "avg_total": 1.2500000000000002
+    },
+    {
+        "name": "D.J. Montgomery",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.4833333333333333,
+        "avg_total": 0.8111111111111112
+    },
+    {
+        "name": "Steven Sims",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.3111111111111111
+    },
+    {
+        "name": "Cade Johnson",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Abram Smith",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Phillip Lindsay",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Alex Erickson",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 1.6722222222222223,
+        "avg_total": 2.511111111111111
+    },
+    {
+        "name": "Derrick Gore",
+        "team": "Wsh",
+        "position": "RB",
+        "avg_proj": 0.022222222222222223,
+        "avg_total": 0.14444444444444443
+    },
+    {
+        "name": "Kalen Ballage",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tyler Mabry",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ty'Son Williams",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Racey McMath",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Isaiah Zuber",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Anthony Gordon",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Isaiah Ford",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tavon Austin",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "James Washington",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Patrick Laird",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Marquez Stevenson",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Reid Sinnett",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Giovani Bernard",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "T.J. Vasher",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kendall Hinton",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jeremy Sprinkle",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Devin Asiasi",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Bryan Edwards",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "KeeSean Johnson",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "David Blough",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Dontrell Hilliard",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Breshad Perriman",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tyree Jackson",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tarik Black",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tevin Coleman",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Mike Thomas",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Demetric Felton Jr.",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Marcus Kemp",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "James O'Shaughnessy",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ryan Griffin",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "William Fuller V",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Duke Johnson",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tay Martin",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Chase Daniel",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tanner Conner",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Malcolm Brown",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Thaddeus Moss",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Nikola Kalinic",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Dennis Houston",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Trishton Jackson",
+        "team": "Min",
+        "position": "WR",
+        "avg_proj": 0.33888888888888885,
+        "avg_total": 0.27222222222222225
+    },
+    {
+        "name": "Cole McDonald",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Mike Davis",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Emmanuel Sanders",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jeff Driskel",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.7944444444444445,
+        "avg_total": 0.7744444444444444
+    },
+    {
+        "name": "Andy Janovich",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Pharoh Cooper",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Lance McCutcheon",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Chester Rogers",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Devine Ozigbo",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.08888888888888889,
+        "avg_total": 0.12777777777777777
+    },
+    {
+        "name": "Jaret Patterson",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Trey Edmunds",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Dillon Stoner",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Trestan Ebner",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "James Proche II",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.4388888888888889,
+        "avg_total": -0.1111111111111111
+    },
+    {
+        "name": "Javon Wims",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Alex Armah",
+        "team": "Wsh",
+        "position": "RB",
+        "avg_proj": 0.15000000000000002,
+        "avg_total": 0.23888888888888887
+    },
+    {
+        "name": "Kyric McGowan",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ricky Seals-Jones",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Damarea Crockett",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jason Huntley",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Brian Hill",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tyler Johnson",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.15555555555555556,
+        "avg_total": 0.48888888888888893
+    },
+    {
+        "name": "Chris Streveler",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jake Luton",
+        "team": "NO",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Brady Russell",
+        "team": "Sea",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tyrie Cleveland",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kevin Hogan",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Garrett Gilbert",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Austin Trammell",
+        "team": "LAR",
+        "position": "WR",
+        "avg_proj": 0.6722222222222222,
+        "avg_total": 0.27222222222222225
+    },
+    {
+        "name": "Cullen Gillaspia",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Malik Turner",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Freddie Swain",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kenjon Barner",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Nick Bowers",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Bo Melton",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.9888888888888889,
+        "avg_total": 2.55
+    },
+    {
+        "name": "Mason Kinsey",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.05,
+        "avg_total": 0.08888888888888889
+    },
+    {
+        "name": "Jalen Richard",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Daurice Fountain",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tony Poljan",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Nick Ralston",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Vyncint Smith",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Nate McCrary",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Sean Mannion",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ross Travis",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ryquell Armstead",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Devontae Booker",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jacques Patrick",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "DJ Turner",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Nate Stanley",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jacob Eason",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jaydon Mickens",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Trinity Benson",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Hunter Kampmoyer",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Davis Webb",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Danny Etling",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "John Wolford",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "JaQuan Hardy",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Keelan Cole Sr.",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Elijhaa Penny",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Peyton Barber",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Elijah Holyfield",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Cam Sims",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jaylen Samuels",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Wayne Gallman",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Sean McKeon",
+        "team": "Dal",
+        "position": "TE",
+        "avg_proj": 0.23888888888888887,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jeremy McNichols",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.23888888888888887,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Cameron Brate",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Gabe Nabers",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Frank Darby",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kylin Hill",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Damiere Byrd",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "James Morgan",
+        "team": "FA",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Maurice Ffrench",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jordan Wilkins",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "J.P. Holtz",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ito Smith",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Lee Smith",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Cameron Batson",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "John Lovett",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Darwin Thompson",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Cornell Powell",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Buddy Howell",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Rodney Adams",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kevin Rader",
+        "team": "Ten",
+        "position": "TE",
+        "avg_proj": 0.33888888888888885,
+        "avg_total": 0.08888888888888889
+    },
+    {
+        "name": "Javian Hawkins",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kerryon Johnson",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Johnny Stanton IV",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "KJ Hill Jr.",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ben Mason",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Darrell Daniels",
+        "team": "Det",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Michael Warren II",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tajae Sharpe",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Marcus Johnson",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Auden Tate",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Stanley Morgan",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Maxx Williams",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Mason Schreck",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Eric Ebron",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ian Bunting",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jake Kumerow",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Daniel Brown",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Richard Rodgers",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Brandon Zylstra",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Anthony Firkser",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jordan Veasy",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Andre Baccellia",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.2777777777777778,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Keke Coutee",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Preston Williams",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jake Bargas",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Collin Johnson",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.11666666666666667
+    },
+    {
+        "name": "David Sills V",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tommylee Lewis",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Malik Taylor",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.15000000000000002,
+        "avg_total": 0.18333333333333332
+    },
+    {
+        "name": "Anthony Miller",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Temarrick Hemingway",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Mike Strachan",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.30000000000000004,
+        "avg_total": 0.3055555555555556
+    },
+    {
+        "name": "Farrod Green",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Xavier Jones",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jonathan Ward",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.061111111111111116
+    },
+    {
+        "name": "Jordan Howard",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Eric Tomlinson",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Dazz Newsome",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Nick Vannett",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.24444444444444446,
+        "avg_total": 0.07222222222222223
+    },
+    {
+        "name": "Sewo Olonilua",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Trey Ragas",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tyron Johnson",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kendall Blanton",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jeff Cotton",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "John Hightower",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jacob Harris",
+        "team": "Jax",
+        "position": "WR",
+        "avg_proj": 0.2666666666666667,
+        "avg_total": 0.0
+    },
+    {
+        "name": "John Brown",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jesse James",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Dominique Dafney",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Sage Surratt",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "LeVante Bellamy",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jacob Hollister",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ryan Izzo",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Deon Yelder",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Antonio Williams",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Raleigh Webb",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Keelan Doss",
+        "team": "LAC",
+        "position": "WR",
+        "avg_proj": 0.15555555555555556,
+        "avg_total": 0.5166666666666667
+    },
+    {
+        "name": "Nick Boyle",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tory Carter",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tommy Hudson",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Trenton Cannon",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Landen Akers",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Adrian Killins",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "JoJo Natson",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Mohamed Sanu",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kevin White",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Derek Carrier",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Reggie Bonnafon",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Isaiah Wright",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Antonio Callaway",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Dezmon Patmon",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "C.J. Saunders",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Easop Winston Jr.",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Noah Togiai",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Gerrid Doaks",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tanner Gentry",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Bisi Johnson",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Cody White",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tony Brown",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Dalton Keene",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Artavis Pierce",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kendric Pryor",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jason Moore",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Garrett Griffin",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Dede Westbrook",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tyrell Williams",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Isaiah Coulter",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jalen Camp",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Darius Bradwell",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ryan Nall",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Aaron Fuller",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jeff Smith",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jaelon Darden",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Demetrius Harris",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Stephen Anderson",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Nsimba Webster",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tommy Stevens",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Scottie Phillips",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jordan Scarlett",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "J.J. Koski",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Dan Chisena",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Josh Hammond",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Brandon Smith",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kaylon Geiger",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jordan Franks",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Raymond Calais",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Rodney Smith",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Mekhi Sargent",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Darius Anderson",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Chris Herndon",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kenny Stills",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jared Pinkney",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Miller Forristall",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Travis Benjamin",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Matt LaCosse",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Marvin Hall",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kawaan Baker",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Kahale Warring",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Javon Leake",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Luke Stocker",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Codey McElroy",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Colin Thompson",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Darren Fells",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Antony Auclair",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Travis Fulgham",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jeff Thomas",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ja'Marcus Bradley",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Michael Bandy",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Adam Shaheen",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Nathan Cottrell",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Antoine Wesley",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Andre Roberts",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Hunter Bryant",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Daniel Helm",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Geronimo Allison",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "C.J. Board",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Albert Wilson",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Myron Mitchell",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Cyril Grayson Jr.",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Omar Bayless",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Alex Bachman",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "DeMichael Harris",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Matt Cole",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Davion Davis",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Will Hastings",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Cody Hollister",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Reggie Begelton",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Chris Rowland",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Austin Mack",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Christian Blake",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Rodney Williams",
+        "team": "Pit",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Dylan Drummond",
+        "team": "Det",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jordan Mims",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "SaRodorick Thompson Jr.",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tucker Fisk",
+        "team": "Atl",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.15833333333333333
+    },
+    {
+        "name": "Tommy DeVito",
+        "team": "NYG",
+        "position": "QB",
+        "avg_proj": 6.683333333333334,
+        "avg_total": 7.795000000000001
+    },
+    {
+        "name": "Jashaun Corbin",
+        "team": "NYG",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.3909090909090909
+    },
+    {
+        "name": "Martavis Bryant",
+        "team": "FA",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Jordan Matthews",
+        "team": "FA",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Stephen Carlson",
+        "team": "Chi",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Shedrick Jackson",
+        "team": "Cin",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Owen Wright",
+        "team": "Bal",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Terrell Bynum",
+        "team": "LAC",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Blake Whiteheart",
+        "team": "Ari",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "AJ McCarron",
+        "team": "Cin",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.10857142857142857
+    },
+    {
+        "name": "Henry Pearson",
+        "team": "GB",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Chris Blair",
+        "team": "Atl",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ellis Merriweather",
+        "team": "FA",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Tyler Goodson",
+        "team": "Ind",
+        "position": "RB",
+        "avg_proj": 2.5500000000000003,
+        "avg_total": 3.016666666666667
+    },
+    {
+        "name": "DeMario Douglas",
+        "team": "NE",
+        "position": "WR",
+        "avg_proj": 7.483333333333334,
+        "avg_total": 4.883333333333334
+    },
+    {
+        "name": "Josh Pederson",
+        "team": "Jax",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Princeton Fant",
+        "team": "Dal",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Ryan Miller",
+        "team": "TB",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Lucky Jackson",
+        "team": "Min",
+        "position": "WR",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Nathan Rourke",
+        "team": "NE",
+        "position": "QB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Cole Fotheringham",
+        "team": "LV",
+        "position": "TE",
+        "avg_proj": 0.525,
+        "avg_total": 0.4
+    },
+    {
+        "name": "Travis Vokolek",
+        "team": "Ari",
+        "position": "TE",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    },
+    {
+        "name": "Xazavian Valladay",
+        "team": "NYJ",
+        "position": "RB",
+        "avg_proj": 0.0,
+        "avg_total": 0.0
+    }
+]
