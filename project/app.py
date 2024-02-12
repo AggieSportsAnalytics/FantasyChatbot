@@ -12,7 +12,7 @@ import os
 load_dotenv('.env')
 
 # Setup
-json_path = 'fantasy.json'
+json_path = 'final_data.json'
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # Loading and preparing data
@@ -59,7 +59,7 @@ with container:
         submit_button = st.form_submit_button(label='Ask the Analyst')
 
         # Prefix to set the persona of the chatbot
-        user_query = "You are an expert sport analyst specializing in Fantasy Football! " + user_input
+        user_query = "You are an expert sport analyst specializing in Fantasy Football! Use the data provided and give confident predictions and analysis." + user_input
 
     if submit_button and user_input:
         output = conversational_chat(user_query)
