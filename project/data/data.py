@@ -1,4 +1,8 @@
 import json
+import pandas as pd
+import numpy as np
+from statsmodels.tsa.arima.model import ARIMA
+from pmdarima import auto_arima
 
 def read_json_file(filename):
     try:
@@ -10,6 +14,8 @@ def read_json_file(filename):
 
 def main():
     player_data = {}
+    ts_proj = pd.DataFrame()
+    ts_total = pd.DataFrame()
     num_weeks = 18
 
     # Loop through each week
@@ -33,6 +39,10 @@ def main():
             except ValueError:
                 proj = 0
                 total = 0
+            
+            #add data for player by week to time series data      
+            ts_proj.loc[week, name] = proj
+            ts_total.loc[week, name] = total
 
             # Accumulate data for each player
             if name not in player_data:
@@ -40,10 +50,25 @@ def main():
             player_data[name]['proj'] += proj
             player_data[name]['total'] += total
             player_data[name]['count'] += 1
+    
+    # replace nan values
+    ts_total.fillna(0, inplace=True)
+    ts_proj.fillna(0, inplace=True)
+
+    # reset index to datetime format
+    ts_proj.index = pd.date_range(start='2024-01-01', periods=len(ts_proj), freq='W')
+    ts_total.index = ts_proj.index
 
     # Calculate averages and prepare the final data
     final_data = []
     for name, data in player_data.items():
+        # calculate optimal autoregressive, differencing, moving average components
+        # proj_auto = auto_arima(ts_proj[name], suppress_warnings=True, trace=False)
+
+        proj_arima = ARIMA(ts_proj[name], order=(1, 0, 1), enforce_invertibility=True, enforce_stationarity=True).fit()
+        total_arima = ARIMA(ts_total[name], order=(1, 0, 1), enforce_invertibility=True, enforce_stationarity=True).fit()
+
+
         if data['count'] > 0:
             avg_proj = data['proj'] / data['count']
             avg_total = data['total'] / data['count']
@@ -52,7 +77,11 @@ def main():
                 'team': data['team'],
                 'position': data['position'],
                 'avg_proj': avg_proj,
-                'avg_total': avg_total
+                'avg_total': avg_total,
+                'proj_trend_influence': proj_arima.arparams[0],
+                'proj_variation_sensitivity': proj_arima.maparams[0],
+                'total_trend_influence': total_arima.arparams[0],
+                'total_variation_sensitivity': total_arima.maparams[0]
             })
 
     output_file = 'final_data.json'
@@ -61,9 +90,9 @@ def main():
 
     print(f"Data successfully written to {output_file}")
 
-    # Output the final data
-    for player in final_data:
-        print(player)
+    # # Output the final data
+    # for player in final_data:
+    #     print(player)
 
 if __name__ == "__main__":
     main()
