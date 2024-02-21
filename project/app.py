@@ -9,7 +9,7 @@ from langchain.vectorstores import FAISS
 from dotenv import load_dotenv
 import os
 
-# Load environment variables
+# Load environment variable
 load_dotenv('.env')
 
 # Setup
