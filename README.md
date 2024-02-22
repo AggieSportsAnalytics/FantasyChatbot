@@ -1,4 +1,4 @@
-# Fantasy Chatbot
+# HIKE: Fantasy Sport Chatbot
 
 Chatbot for amazing personalized guidance in Fantasy Football 🏈
 
