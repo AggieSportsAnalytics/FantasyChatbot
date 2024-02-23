@@ -55,6 +55,8 @@ if 'history' not in st.session_state:
 # Streamlit layout
 logo_image = "asa.png"
 
+
+st.set_page_config(page_title="HIKE", page_icon="asa.png", initial_sidebar_state="auto", menu_items=None)
 st.image(logo_image, width=100, use_column_width=False)
 
 st.title(f"Fantasy Football Analyst Chatbot 🏈")
@@ -64,6 +66,13 @@ st.markdown(
     h1 {
         color: #B4B7ED !important;
     }
+    .reportview-container {
+            margin-top: -2em;
+        }
+        #MainMenu {visibility: hidden;}
+        .stDeployButton {display:none;}
+        footer {visibility: hidden;}
+        #stDecoration {display:none;}
     </style>
     """,
     unsafe_allow_html=True
