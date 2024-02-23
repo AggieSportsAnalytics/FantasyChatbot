@@ -57,7 +57,17 @@ logo_image = "asa.png"
 
 st.image(logo_image, width=100, use_column_width=False)
 
-st.title(f":blue[Fantasy Football Analyst Chatbot] 🏈")
+st.title(f"Fantasy Football Analyst Chatbot 🏈")
+st.markdown(
+    """
+    <style>
+    h1 {
+        color: #B4B7ED !important;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
 # Bio Section
 st.write(
@@ -69,24 +79,27 @@ response_container = st.container()
 container = st.container()
 
 with response_container:
-
-    st.markdown(
-        """
-        <style>
-        /* CSS to set the text color of the chat messages to black */
-         response_container{
-            color: #000000 !important;
-        }
-        </style>
-        """,
-        unsafe_allow_html=True
-    )
+    # Insert a unique identifier
+    unique_identifier = "response-container-unique"
+    st.markdown(f'<div id="{unique_identifier}"></div>', unsafe_allow_html=True)
 
     for i in range(len(st.session_state['history'])):
         if i % 2 != 0:
             user_msg, bot_reply = st.session_state['history'][i]
             message(user_msg, is_user=True, avatar_style="big-smile", key=str(i) + '_user')
             message(bot_reply, key=str(i), avatar_style="thumbs")
+
+# CSS scoped to the response_container
+st.markdown(
+    f"""
+    <style>
+    #{unique_identifier} p {{
+        color: #000000 !important;
+    }}
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
 # User input section
 with container:
@@ -95,7 +108,7 @@ with container:
         """
         <style>
         ::placeholder{
-            color: grey !important;
+            color: white !important;
         }
         </style>
         """,
@@ -107,7 +120,7 @@ with container:
         <style>
         /* CSS to set the text color of the input box to black */
         input[type="text"] {
-            color: black !important;
+            color: white !important;
         }
         </style>
         """,
