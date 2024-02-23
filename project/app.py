@@ -87,7 +87,7 @@ with response_container:
         if i % 2 != 0:
             user_msg, bot_reply = st.session_state['history'][i]
             message(user_msg, is_user=True, avatar_style="big-smile", key=str(i) + '_user')
-            message(bot_reply, key=str(i), avatar_style="thumbs")
+            message(bot_reply, key=str(i), avatar_style="https://raw.githubusercontent.com/dataprofessor/streamlit-chat-avatar/master/bot-icon.png")
 
 # CSS scoped to the response_container
 st.markdown(
