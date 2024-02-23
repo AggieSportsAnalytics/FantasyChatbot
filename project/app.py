@@ -53,14 +53,35 @@ if 'history' not in st.session_state:
     st.session_state['injury_history'] = []
 
 # Streamlit layout
-st.title("Fantasy Football Analyst Chatbot 🏈")
-st.markdown("Ask me anything about fantasy football!")
+logo_image = "asa.png"
+
+st.image(logo_image, width=100, use_column_width=False)
+
+st.title(f":blue[Fantasy Football Analyst Chatbot] 🏈")
+
+# Bio Section
+st.write(
+    "Hi! My name is HIKE, your AI Fantasy Sports coach. Ask me any questions regarding player info, trade advice, or draft recommendations. I'm always here to help!"
+)
 
 # Initialize containers
 response_container = st.container()
 container = st.container()
 
 with response_container:
+
+    st.markdown(
+        """
+        <style>
+        /* CSS to set the text color of the chat messages to black */
+         response_container{
+            color: #000000 !important;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
     for i in range(len(st.session_state['history'])):
         if i % 2 != 0:
             user_msg, bot_reply = st.session_state['history'][i]
@@ -69,9 +90,33 @@ with response_container:
 
 # User input section
 with container:
+
+    st.markdown(
+        """
+        <style>
+        ::placeholder{
+            color: grey !important;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+    st.markdown(
+        """
+        <style>
+        /* CSS to set the text color of the input box to black */
+        input[type="text"] {
+            color: black !important;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
     with st.form(key='my_form', clear_on_submit=True):
         user_input = st.text_input("Your question:", placeholder="What should I know about player X?", key='input')
-        submit_button = st.form_submit_button(label='Ask the Analyst')
+        submit_button = st.form_submit_button(label='Ask HIKE')
 
         # Prefix to set the persona of the chatbot
         user_query = "You are an expert sport analyst specializing in Fantasy Football! Use the data provided to provide CONFIDENT advice (DO NOT hesitate about giving opinions)" + user_input
