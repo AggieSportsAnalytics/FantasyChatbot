@@ -141,7 +141,7 @@ with container:
         submit_button = st.form_submit_button(label='Ask HIKE')
 
         # Prefix to set the persona of the chatbot
-        user_query = "You are an expert sport analyst specializing in Fantasy Football! Use the data provided to provide CONFIDENT advice (DO NOT hesitate about giving opinions)" + user_input
+        user_query = "You are HIKE, an expert sport analyst specializing in Fantasy Football! Use the data provided to provide CONFIDENT advice (DO NOT hesitate about giving opinions)" + user_input
 
     if submit_button and user_input:
         output = conversational_chat(user_query)
