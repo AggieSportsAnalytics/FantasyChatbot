@@ -12,21 +12,17 @@ HIKE utilizes LLMs through Retrieval Augmented Generation (RAG) for natural lang
 <br></br>
 <img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/NBASalaryAnalysis/assets/68085422/e903d94a-e306-46fc-83eb-0d8741213365">
 
-**This is a graph of all the supermax players in the NBA sorted from highest to lowest contract and their Points Per Game**
+## Time Series Analysis
 
-<img width="944" alt="image" src="https://github.com/AggieSportsAnalytics/NBASalaryAnalysis/assets/68085422/a3509f38-9ced-4f14-9980-eef83139ac4f">
+HIKE implements time series analysis to analyze data over the sports season. This allows HIKE algorithm to understand data at specific times during the football and basketball seasons.
+<br></br>
+<img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/NBASalaryAnalysis/assets/68085422/e903d94a-e306-46fc-83eb-0d8741213365">
 
-**This is a graph of Chet Holmgren's Rebounds Per Game compared to other players of a similar contract**
+## Streamlit Frontend
 
-<img width="952" alt="image" src="https://github.com/AggieSportsAnalytics/NBASalaryAnalysis/assets/68085422/6eb6bbbe-6245-49ad-b66e-f16773c6c402">
-
-**This is a graph of the Player Efficiency ratings of the Washington Wizards sorted by salary**
-
-From all of this info it is easy to determine which players are over and under performing their contracts.
-
-<img width="884" alt="image" src="https://github.com/AggieSportsAnalytics/NBASalaryAnalysis/assets/68085422/d929649d-3b78-4cc0-8911-01a6a7f79549">
-
-**This image has the information on the over and underachieving players on the Wizards**
+The frontend is built using Streamlit, allowing for easy modification and rapid performance. This choice eliminates the need for conventional request-response cycles between a frontend and backend, significantly reducing latency.
+<br></br>
+<img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/NBASalaryAnalysis/assets/68085422/e903d94a-e306-46fc-83eb-0d8741213365">
 
 ### 💻 Code
 
