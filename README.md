@@ -6,9 +6,10 @@ Every year, over 60 million Americans play fantasy sports. Many players depend o
 
 # 🔑 Key Features
 
-## Comparing player statistics
+## Large Language Model (LLM) Integration
 
-This project is able to compare players of a similar contract range across different statistics.
+HIKE utilizes LLMs through Retrieval Augmented Generation (RAG) for natural language chatting and conducting sentiment analysis on sports news.
+<br></br>
 <img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/NBASalaryAnalysis/assets/68085422/e903d94a-e306-46fc-83eb-0d8741213365">
 
 **This is a graph of all the supermax players in the NBA sorted from highest to lowest contract and their Points Per Game**
