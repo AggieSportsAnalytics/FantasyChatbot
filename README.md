@@ -164,4 +164,4 @@ st.markdown(
 
 # 🏆 Recognition
 
-<b>First Place<b> in the 2024 Winter Quarter <a href="https://raw.githubusercontent.com/AggieSportsAnalytics/FantasyChatbot/main/images/casecomp.png" target="_blank">ASA Case Competition</a>.
+<b>First Place</b> in the 2024 Winter Quarter <a href="https://raw.githubusercontent.com/AggieSportsAnalytics/FantasyChatbot/main/images/casecomp.png" target="_blank">ASA Case Competition</a>.
