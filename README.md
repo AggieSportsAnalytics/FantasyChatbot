@@ -8,7 +8,7 @@ Every year, over 60 million Americans play fantasy sports. Many players depend o
 
 ## Large Language Model (LLM) Integration
 
-HIKE utilizes LLMs through Retrieval Augmented Generation (RAG) for natural language chatting and conducting sentiment analysis on sports news.
+HIKE utilizes LLMs through Retrieval Augmented Generation (RAG) for natural language chatting and conducting sentiment analysis on sports news and injury data.
 <br></br>
 <img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/FantasyChatbot/blob/45c3f1d46ab61f51957e33a64bff22cf9f19024b/images/rag.png">
 
@@ -24,34 +24,42 @@ The frontend is built using Streamlit, allowing for easy modification and rapid 
 <br></br>
 <img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/FantasyChatbot/blob/45c3f1d46ab61f51957e33a64bff22cf9f19024b/images/streamlit.png">
 
-### 💻 Code
+# 💻 Code
 
 We sourced Football data from an open-source <a href="https://www.kaggle.com/datasets/jpmiller/nfl-competition-data" target="_blank">Kaggle dataset</a> with robust data covering the past five seasons, including the most recent reason in 2023.
 
-This data needed to be converted from CSV to JSON format in order to feed to our LLM using LangChain.
+This dataset was quite detailed and needed to filtered to only contain relevant information for our algorithm.
 
 ```py
-def csv_to_json(file_paths):
-    for file_path in file_paths:
-        with open(file_path, mode='r', encoding='utf-8') as file:
-            csv_reader = csv.DictReader(file)
-            file_name = os.path.splitext(os.path.basename(file_path))[0]
-            week_number = file_name.replace('week', '')  # Extracting week number from file name
+ # Loop through each week
+    for week in range(1, num_weeks + 1):
+        file_name = f'week{week}.json'
+        week_data = read_json_file(file_name)
+        week_data_filter = week_data["data"]
 
-            # Creating JSON structure with week number
-            json_data = {
-                "week_number": week_number,
-                "data": list(csv_reader)
-            }
+        # Process each player in the week
+        for player in week_data_filter:
+            name = player.get('PLAYER NAME', '')
+            team = player.get('PLAYER TEAM', '')
+            position = player.get('PLAYER POSITION', '')
+            proj = player.get('PROJ', 0)
+            total = player.get('TOTAL', 0)
 
-            # Saving each file as a separate JSON file
-            json_file_name = f"{file_name}.json"
-            with open(json_file_name, 'w', encoding='utf-8') as json_file:
-                json.dump(json_data, json_file, ensure_ascii=False, indent=4)
- ...
+            # Convert PROJ and TOTAL to float, handle empty or invalid values
+            try:
+                proj = float(proj) if proj else 0
+                total = float(total) if total else 0
+            except ValueError:
+                proj = 0
+                total = 0
+
+            #add data for player by week to time series data
+            ts_proj.loc[week, name] = proj
+            ts_total.loc[week, name] = total
+...
 ```
 
-We sourced Basketball data via webscraping on the NBA website.
+We also sourced Basketball data via webscraping on the NBA website.
 
 ```py
 for y in years:
@@ -67,5 +75,32 @@ for y in years:
         lag = np.random.uniform(low=5,high=40) #Want to be not looking like a bot out there
         print(f'...waiting {round(lag,1)} seconds')
         time.sleep(lag)
+```
+
+We used LangChain to feed this data to an LLM and synethesize the data into a coherent natural language output upon a user query.
+
+```py
+json_path = 'final_data.json'
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
+loader = JSONLoader(file_path=json_path, jq_schema='.[]', text_content=False)
+data = loader.load()
+
+injury_loader = CSVLoader(file_path='injuryreports.csv', encoding="utf-8")
+injury_reports = injury_loader.load()
+
+embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
+vectors = FAISS.from_documents(data, embeddings)
+injury_vectors = FAISS.from_documents(injury_reports, embeddings)
+
+chain = ConversationalRetrievalChain.from_llm(
+    llm=ChatOpenAI(temperature=0.0, model_name='gpt-3.5-turbo', openai_api_key=OPENAI_API_KEY),
+    retriever=vectors.as_retriever())
+
+injury_chain = ConversationalRetrievalChain.from_llm(
+    llm=ChatOpenAI(temperature=0.0, model_name='gpt-3.5-turbo', openai_api_key=OPENAI_API_KEY),
+    retriever=injury_vectors.as_retriever())
 ...
 ```
+
+Finally, we used Streamlit to create a frontend chatbot interfaces that is intuitive and beautiful.
