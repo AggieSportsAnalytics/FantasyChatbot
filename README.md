@@ -26,9 +26,9 @@ The frontend is built using Streamlit, allowing for easy modification and rapid 
 
 # 💻 Code
 
-We sourced Football data from an open-source <a href="https://www.kaggle.com/datasets/jpmiller/nfl-competition-data" target="_blank">Kaggle dataset</a> with robust data covering the past five seasons, including the most recent reason in 2023.
+To obtain Football data, we use a maintained open-source <a href="https://www.kaggle.com/datasets/jpmiller/nfl-competition-data" target="_blank">Kaggle dataset</a> with robust data covering the past five seasons, including the most recent reason in 2023.
 
-This dataset was quite detailed and needed to filtered to only contain relevant information for our algorithm.
+This dataset is quite detailed and needs some processing to only contain relevant information for our algorithm.
 
 ```py
  # Loop through each week
@@ -59,7 +59,7 @@ This dataset was quite detailed and needed to filtered to only contain relevant 
 ...
 ```
 
-We also sourced Basketball data via webscraping on the NBA website.
+To source Basketball data, we use webscraping on the NBA website and the pandas library to filter data to the project needs.
 
 ```py
 for y in years:
@@ -77,7 +77,22 @@ for y in years:
         time.sleep(lag)
 ```
 
-We used LangChain to feed this data to an LLM and synethesize the data into a coherent natural language output upon a user query.
+We use the Statsmodel to run time-series analysis on data throughout the season.
+
+```py
+    ts_proj.index = pd.date_range(start='2024-01-01', periods=len(ts_proj), freq='W')
+    ts_total.index = ts_proj.index
+
+    # Calculate averages and prepare the final data
+    final_data = []
+    for name, data in player_data.items():
+        # calculate optimal autoregressive, differencing, moving average components
+        # proj_auto = auto_arima(ts_proj[name], suppress_warnings=True, trace=False)
+
+        proj_arima = ARIMA(ts_proj[name], order=(1, 0, 1), enforce_invertibility=True, enforce_stationarity=True).fit()
+        total_arima = ARIMA(ts_total[name], order=(1, 0, 1), enforce_invertibility=True, enforce_stationarity=True).fit()
+...
+```
 
 ```py
 json_path = 'final_data.json'
@@ -104,3 +119,28 @@ injury_chain = ConversationalRetrievalChain.from_llm(
 ```
 
 Finally, we used Streamlit to create a frontend chatbot interfaces that is intuitive and beautiful.
+
+```py
+st.set_page_config(page_title="HIKE", page_icon="asa.png", initial_sidebar_state="auto", menu_items=None)
+st.image(logo_image, width=100, use_column_width=False)
+
+st.title(f"Fantasy Football Analyst Chatbot 🏈")
+st.markdown(
+    """
+    <style>
+    h1 {
+        color: #B4B7ED !important;
+    }
+    .reportview-container {
+            margin-top: -2em;
+        }
+        #MainMenu {visibility: hidden;}
+        .stDeployButton {display:none;}
+        footer {visibility: hidden;}
+        #stDecoration {display:none;}
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+...
+```
