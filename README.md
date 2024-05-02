@@ -1,7 +1,7 @@
 ### 🏁 AI-powered Chatbot for draft and trade guidance in Fantasy Football and Basketball
 
 Every year, over 60 million Americans play fantasy sports. Many players depend on online tools for trade and draft guidance. These trade analyzers are purely data driven and poorly designed. Our project aims to revolutionize fantasy sport trade analyzers.
-<br></br><br></br>
+<br></br>
 <b>HIKE</b> is a chatbot for amazing personalized advice in Fantasy Football and Basketball. It provides conversational advice using a combination of time series analysis, score projections, and LLM-powered sentiment analysis. The project is built entirely in Python using the LangChain, Statsmodels, and Streamlit libraries.
 <br></br>
 <img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/FantasyChatbot/blob/7f7ebd179ebdf983c86fbd8d6ab373f9f6d7b98a/chatbotphoto.png">
@@ -143,4 +143,19 @@ st.markdown(
 
 # 🪴 Areas of Improvement
 
-- test
+- Data: The project could always have higher accuracy in trade and draft advice with better data procedures. This could be improved through better datasets and optimizing the data analysis process.
+- Fine-tuning: Currently, HIKE uses a standard, 1.8 trillion parameter LLM. We could fine-tune a large language model for Fantasy Sport purposes to create a more powerful chatbot.
+- Speed: Depending on the input, HIKE can take a few seconds to provide an output. With optimizastion, this delay could certainly be reduced to create a lower latency chatbot.
+
+# 🚀 Further Uses
+
+- The project can be implemented to support all sports, including baseball, soccer, hockey, cricket, and more.
+- HIKE can be monitized into a SaaS product with more refinement on the core project
+
+# 💻 Technology
+
+- LangChain
+- GPT-4
+- Statsmodels
+- Pandas
+- Streamlit
