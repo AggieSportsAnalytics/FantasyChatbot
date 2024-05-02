@@ -73,7 +73,7 @@ for y in years:
         time.sleep(lag)
 ```
 
-We use the Statsmodel to run time-series analysis on data throughout the season.
+The Statsmodels library is implemented to run time-series analysis on data throughout the season.
 
 ```py
 ts_proj.index = pd.date_range(start='2024-01-01', periods=len(ts_proj), freq='W')
@@ -85,6 +85,8 @@ for name, data in player_data.items():
     total_arima = ARIMA(ts_total[name], order=(1, 0, 1), enforce_invertibility=True, enforce_stationarity=True).fit()
 ...
 ```
+
+Then, we use LangChain to send our processed data to the LLM. The LLM analyzes these vast amounts of data to create calculated resonponses in natural language dialogue.
 
 ```py
 json_path = 'final_data.json'
@@ -110,7 +112,7 @@ injury_chain = ConversationalRetrievalChain.from_llm(
 ...
 ```
 
-Finally, we use Streamlit to package HIKE into an intuitive and beautiful chatbot interface.
+HIKE uses Streamlit to package HIKE into an intuitive and beautiful chatbot interface.
 
 ```py
 st.set_page_config(page_title="HIKE", page_icon="asa.png", initial_sidebar_state="auto", menu_items=None)
