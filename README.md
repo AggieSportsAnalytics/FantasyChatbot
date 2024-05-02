@@ -161,3 +161,7 @@ st.markdown(
 - Statsmodels
 - Pandas
 - Streamlit
+
+# 🏆 Recognition
+
+First Place in the 2024 Winter Quarter Aggie Sports Analytics Case Competition.
