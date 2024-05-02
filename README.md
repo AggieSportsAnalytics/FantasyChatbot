@@ -1,6 +1,8 @@
 ### 🏁 AI-powered Chatbot for draft and trade guidance in Fantasy Football and Basketball
 
-Every year, over 60 million Americans play fantasy sports. Many players depend on online tools for trade and draft guidance. These trade analyzers are purely data driven and poorly designed. Our project aims to revolutionize fantasy sport trade analyzers. <b>HIKE</b> is a chatbot for amazing personalized advice in Fantasy Football and Basketball. It provides conversational advice using a combination of time series analysis, score projections, and LLM-powered sentiment analysis. The project is built entirely in Python using the LangChain, Statsmodels, and Streamlit libraries.
+Every year, over 60 million Americans play fantasy sports. Many players depend on online tools for trade and draft guidance. These trade analyzers are purely data driven and poorly designed. Our project aims to revolutionize fantasy sport trade analyzers.
+<br></br><br></br>
+<b>HIKE</b> is a chatbot for amazing personalized advice in Fantasy Football and Basketball. It provides conversational advice using a combination of time series analysis, score projections, and LLM-powered sentiment analysis. The project is built entirely in Python using the LangChain, Statsmodels, and Streamlit libraries.
 <br></br>
 <img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/FantasyChatbot/blob/7f7ebd179ebdf983c86fbd8d6ab373f9f6d7b98a/chatbotphoto.png">
 
@@ -112,7 +114,7 @@ injury_chain = ConversationalRetrievalChain.from_llm(
 ...
 ```
 
-HIKE uses Streamlit to package HIKE into an intuitive and beautiful chatbot interface.
+Finally, we use Streamlit to package HIKE into an intuitive and beautiful chatbot interface.
 
 ```py
 st.set_page_config(page_title="HIKE", page_icon="asa.png", initial_sidebar_state="auto", menu_items=None)
@@ -138,3 +140,7 @@ st.markdown(
 )
 ...
 ```
+
+# 🪴 Areas of Improvement
+
+- test
