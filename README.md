@@ -1,4 +1,4 @@
-### 🏁 AI-powered chatbot for draft/trade guidance in Fantasy Football and Basketball
+### 🏁 AI-powered Chatbot for draft and trade guidance in Fantasy Football and Basketball
 
 Over 60 million Americans play fantasy sports every year. HIKE is a chatbot for amazing personalized guidance in Fantasy Football and Basketball. It provides conversational advice using a combination of time series analysis, score projections, and LLM-powered sentiment analysis. HIKE is the ultimate algorithm for Fantasy players to make decisions on drafting and trading players.
 
