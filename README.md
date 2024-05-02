@@ -4,6 +4,8 @@ Every year, over 60 million Americans play fantasy sports. Many players depend o
 <br></br>
 <b>HIKE</b> is a chatbot for amazing personalized advice in Fantasy Football and Basketball. It provides conversational advice using a combination of time series analysis, score projections, and LLM-powered sentiment analysis. The project is built entirely in Python using the LangChain, Statsmodels, and Streamlit libraries.
 <br></br>
+<b>Watch the demo video <a href="https://www.youtube.com/watch?v=c6inhEnC4-I" target="_blank">here</a>!</b>
+<br></br>
 <img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/FantasyChatbot/blob/7f7ebd179ebdf983c86fbd8d6ab373f9f6d7b98a/chatbotphoto.png">
 
 # 🔑 Key Features
