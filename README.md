@@ -10,19 +10,19 @@ Every year, over 60 million Americans play fantasy sports. Many players depend o
 
 HIKE utilizes LLMs through Retrieval Augmented Generation (RAG) for natural language chatting and conducting sentiment analysis on sports news.
 <br></br>
-<img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/NBASalaryAnalysis/assets/68085422/e903d94a-e306-46fc-83eb-0d8741213365">
+<img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/FantasyChatbot/blob/45c3f1d46ab61f51957e33a64bff22cf9f19024b/images/rag.png">
 
 ## Time Series Analysis
 
 HIKE implements time series analysis to analyze data over the sports season. This allows HIKE algorithm to understand data at specific times during the football and basketball seasons.
 <br></br>
-<img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/NBASalaryAnalysis/assets/68085422/e903d94a-e306-46fc-83eb-0d8741213365">
+<img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/FantasyChatbot/blob/45c3f1d46ab61f51957e33a64bff22cf9f19024b/images/timeseriesanalysis.png">
 
 ## Streamlit Frontend
 
 The frontend is built using Streamlit, allowing for easy modification and rapid performance. This choice eliminates the need for conventional request-response cycles between a frontend and backend, significantly reducing latency.
 <br></br>
-<img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/NBASalaryAnalysis/assets/68085422/e903d94a-e306-46fc-83eb-0d8741213365">
+<img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/FantasyChatbot/blob/45c3f1d46ab61f51957e33a64bff22cf9f19024b/images/streamlit.png">
 
 ### 💻 Code
 
