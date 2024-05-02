@@ -31,31 +31,27 @@ To obtain Football data, we use a maintained open-source <a href="https://www.ka
 This dataset is quite detailed and needs some processing to only contain relevant information for our algorithm.
 
 ```py
- # Loop through each week
-    for week in range(1, num_weeks + 1):
-        file_name = f'week{week}.json'
-        week_data = read_json_file(file_name)
-        week_data_filter = week_data["data"]
+for week in range(1, num_weeks + 1):
+    file_name = f'week{week}.json'
+    week_data = read_json_file(file_name)
+    week_data_filter = week_data["data"]
 
-        # Process each player in the week
-        for player in week_data_filter:
-            name = player.get('PLAYER NAME', '')
-            team = player.get('PLAYER TEAM', '')
-            position = player.get('PLAYER POSITION', '')
-            proj = player.get('PROJ', 0)
-            total = player.get('TOTAL', 0)
+    for player in week_data_filter:
+        name = player.get('PLAYER NAME', '')
+        team = player.get('PLAYER TEAM', '')
+        position = player.get('PLAYER POSITION', '')
+        proj = player.get('PROJ', 0)
+        total = player.get('TOTAL', 0)
 
-            # Convert PROJ and TOTAL to float, handle empty or invalid values
-            try:
-                proj = float(proj) if proj else 0
-                total = float(total) if total else 0
-            except ValueError:
-                proj = 0
-                total = 0
+        try:
+            proj = float(proj) if proj else 0
+            total = float(total) if total else 0
+        except ValueError:
+            proj = 0
+            total = 0
 
-            #add data for player by week to time series data
-            ts_proj.loc[week, name] = proj
-            ts_total.loc[week, name] = total
+        ts_proj.loc[week, name] = proj
+        ts_total.loc[week, name] = total
 ...
 ```
 
@@ -72,7 +68,7 @@ for y in years:
         stats_df3 = pd.concat([stats_df2, stats_df1], axis=1)
         df = pd.concat([df, stats_df3], axis=0)
         print(f'Finish scraping data for the {y} {s}.')
-        lag = np.random.uniform(low=5,high=40) #Want to be not looking like a bot out there
+        lag = np.random.uniform(low=5,high=40)
         print(f'...waiting {round(lag,1)} seconds')
         time.sleep(lag)
 ```
@@ -114,7 +110,7 @@ injury_chain = ConversationalRetrievalChain.from_llm(
 ...
 ```
 
-Finally, we used Streamlit to create a frontend chatbot interfaces that is intuitive and beautiful.
+Finally, we use Streamlit to package HIKE into an intuitive and beautiful chatbot interface.
 
 ```py
 st.set_page_config(page_title="HIKE", page_icon="asa.png", initial_sidebar_state="auto", menu_items=None)
