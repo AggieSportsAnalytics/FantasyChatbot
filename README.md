@@ -80,17 +80,13 @@ for y in years:
 We use the Statsmodel to run time-series analysis on data throughout the season.
 
 ```py
-    ts_proj.index = pd.date_range(start='2024-01-01', periods=len(ts_proj), freq='W')
-    ts_total.index = ts_proj.index
+ts_proj.index = pd.date_range(start='2024-01-01', periods=len(ts_proj), freq='W')
+ts_total.index = ts_proj.index
 
-    # Calculate averages and prepare the final data
-    final_data = []
-    for name, data in player_data.items():
-        # calculate optimal autoregressive, differencing, moving average components
-        # proj_auto = auto_arima(ts_proj[name], suppress_warnings=True, trace=False)
-
-        proj_arima = ARIMA(ts_proj[name], order=(1, 0, 1), enforce_invertibility=True, enforce_stationarity=True).fit()
-        total_arima = ARIMA(ts_total[name], order=(1, 0, 1), enforce_invertibility=True, enforce_stationarity=True).fit()
+final_data = []
+for name, data in player_data.items():
+    proj_arima = ARIMA(ts_proj[name], order=(1, 0, 1), enforce_invertibility=True, enforce_stationarity=True).fit()
+    total_arima = ARIMA(ts_total[name], order=(1, 0, 1), enforce_invertibility=True, enforce_stationarity=True).fit()
 ...
 ```
 
