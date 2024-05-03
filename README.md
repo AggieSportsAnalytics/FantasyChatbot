@@ -90,7 +90,7 @@ for name, data in player_data.items():
 ...
 ```
 
-Then, we use LangChain to send our processed data to the LLM. The LLM analyzes these vast amounts of data to create calculated resonponses in natural language dialogue.
+Then, we use LangChain to send our processed data to the LLM. The LLM analyzes these vast amounts of data to create calculated responses in natural language dialogue.
 
 ```py
 json_path = 'final_data.json'
