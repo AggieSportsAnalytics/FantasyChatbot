@@ -147,7 +147,7 @@ st.markdown(
 
 - Data: The project could always have higher accuracy in trade and draft advice with better data procedures. This could be improved through better datasets and optimizing the data analysis process.
 - Fine-tuning: Currently, HIKE uses a standard, 1.8 trillion parameter LLM. We could fine-tune a large language model for Fantasy Sport purposes to create a more powerful chatbot.
-- Speed: Depending on the input, HIKE can take a few seconds to provide an output. With optimizastion, this delay could certainly be reduced to create a lower latency chatbot.
+- Speed: Depending on the input, HIKE can take a few seconds to provide an output. With optimization, this delay could certainly be reduced to create a lower latency chatbot.
 
 # 🚀 Further Uses
 
